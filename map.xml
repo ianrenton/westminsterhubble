@@ -1,0 +1,888 @@
+<markers><marker name="Aberavon" lat="51.617052671925" lng="-3.7259215814391" personid="10900" mpname="Hywel Francis" party="Labour" />
+<marker name="Aberavon" lat="51.617052671925" lng="-3.7259215814391" personid="10900" mpname="Hywel Francis" party="Labour" />
+<marker name="Aberconwy" lat="53.133984544289" lng="-3.8465490048539" personid="24736" mpname="Guto Bebb" party="Conservative" />
+<marker name="Aberdeen North" lat="57.165695055819" lng="-2.161207452489" personid="10174" mpname="Frank Doran" party="Labour" />
+<marker name="Aberdeen South" lat="57.120713274419" lng="-2.1819499261746" personid="10032" mpname="Anne Begg" party="Labour" />
+<marker name="Airdrie and Shotts" lat="55.850637906238" lng="-3.8717669935801" personid="24737" mpname="Pamela Nash" party="Labour" />
+<marker name="Aldershot" lat="51.285408083107" lng="-0.77700042817856" personid="10293" mpname="Gerald Howarth" party="Conservative" />
+<marker name="Aldridge-Brownhills" lat="52.614322382415" lng="-1.9281619618534" personid="10537" mpname="Richard Shepherd" party="Conservative" />
+<marker name="Altrincham and Sale West" lat="53.393517976576" lng="-2.3657133302338" personid="10062" mpname="Graham Brady" party="Conservative" />
+<marker name="Alyn and Deeside" lat="53.164814589666" lng="-3.0413342285415" personid="11267" mpname="Mark Tami" party="Labour" />
+<marker name="Amber Valley" lat="53.039946156328" lng="-1.3999992562506" personid="24965" mpname="Nigel Mills" party="Conservative" />
+<marker name="Angus" lat="56.74629333485" lng="-2.9160515158179" personid="11312" mpname="Michael Weir" party="Scottish National Party" />
+<marker name="Arfon" lat="53.136728077835" lng="-4.1415934528685" personid="11323" mpname="Hywel Williams" party="Plaid Cymru" />
+<marker name="Argyll and Bute" lat="56.123598733744" lng="-5.5015484991072" personid="11185" mpname="Alan Reid" party="Liberal Democrat" />
+<marker name="Arundel and South Downs" lat="50.927793376363" lng="-0.45466725989486" personid="11377" mpname="Nick Herbert" party="Conservative" />
+<marker name="Ashfield" lat="53.093063839209" lng="-1.2720119444944" personid="24811" mpname="Gloria De Piero" party="Labour" />
+<marker name="Ashford" lat="51.128455966232" lng="0.7914055483215" personid="10241" mpname="Damian Green" party="Conservative" />
+<marker name="Ashton-under-Lyne" lat="53.497795690773" lng="-2.1163863044321" personid="10961" mpname="David Heyes" party="Labour" />
+<marker name="Aylesbury" lat="51.732070083341" lng="-0.79807932887347" personid="10361" mpname="David Lidington" party="Conservative" />
+<marker name="Ayr, Carrick and Cumnock" lat="55.275561652148" lng="-4.5777892108559" personid="10467" mpname="Sandra Osborne" party="Labour" />
+<marker name="Banbury" lat="51.991067641737" lng="-1.2863027813451" personid="10023" mpname="Tony Baldry" party="Conservative" />
+<marker name="Banff and Buchan" lat="57.549160635008" lng="-2.2675504088983" personid="24812" mpname="Eilidh Whiteford" party="Scottish National Party" />
+<marker name="Barking" lat="51.536788699423" lng="0.11658173035201" personid="10281" mpname="Margaret Hodge" party="Labour" />
+<marker name="Barnsley Central" lat="53.57651472709" lng="-1.4884804272548" personid="10305" mpname="Eric Illsley" party="Labour" />
+<marker name="Barnsley East" lat="53.542665539575" lng="-1.4077426728219" personid="24762" mpname="Michael Dugher" party="Labour" />
+<marker name="Barrow and Furness" lat="54.190187418887" lng="-3.1600607944067" personid="24837" mpname="John Woodcock" party="Labour" />
+<marker name="Basildon and Billericay" lat="51.603612970572" lng="0.43556320942062" personid="10715" mpname="John Baron" party="Conservative" />
+<marker name="Basingstoke" lat="51.266481018413" lng="-1.0658936397982" personid="11389" mpname="Maria Miller" party="Conservative" />
+<marker name="Bassetlaw" lat="53.354928821267" lng="-0.98858825145522" personid="11093" mpname="John Mann" party="Labour" />
+<marker name="Bath" lat="51.380241453341" lng="-2.3667312098218" personid="10208" mpname="Don Foster" party="Liberal Democrat" />
+<marker name="Batley and Spen" lat="53.723254722105" lng="-1.6845534949676" personid="10650" mpname="Mike Wood" party="Labour" />
+<marker name="Battersea" lat="51.466707157904" lng="-0.16205967427669" personid="24719" mpname="Jane Ellison" party="Conservative" />
+<marker name="Beaconsfield" lat="51.562278656904" lng="-0.61800596983428" personid="10243" mpname="Dominic Grieve" party="Conservative" />
+<marker name="Beckenham" lat="51.380994743691" lng="0.0055233913402021" personid="24907" mpname="Bob Stewart" party="Conservative" />
+<marker name="Bedford" lat="52.131903537719" lng="-0.4642708262952" personid="24787" mpname="Richard Fuller" party="Conservative" />
+<marker name="Belfast East" lat="54.598324" lng="-5.892792" personid="13814" mpname="Naomi Long" party="Alliance" />
+<marker name="Belfast North" lat="54.618607" lng="-5.917511" personid="10857" mpname="Nigel Dodds" party="DUP" />
+<marker name="Belfast South" lat="54.582409" lng="-5.925064" personid="11402" mpname="Alasdair McDonnell" party="Social Democratic and Labour Party" />
+<marker name="Belfast West" lat="54.606277" lng="-5.95665" personid="10002" mpname="Gerry Adams" party="Sinn Fein" />
+<marker name="Bermondsey and Old Southwark" lat="51.496708609404" lng="-0.073154752478991" personid="10298" mpname="Simon Hughes" party="Liberal Democrat" />
+<marker name="Berwick-upon-Tweed" lat="55.432899817447" lng="-1.9310587893186" personid="10034" mpname="Alan Beith" party="Liberal Democrat" />
+<marker name="Berwickshire, Roxburgh and Selkirk" lat="55.565510977995" lng="-2.6698750643435" personid="10439" mpname="Michael Moore" party="Liberal Democrat" />
+<marker name="Bethnal Green and Bow" lat="51.526711621105" lng="-0.04785752126435" personid="24958" mpname="Rushanara Ali" party="Labour" />
+<marker name="Beverley and Holderness" lat="53.795374985277" lng="-0.23011449319665" personid="11406" mpname="Graham Stuart" party="Conservative" />
+<marker name="Bexhill and Battle" lat="50.943164364084" lng="0.42855682130917" personid="10713" mpname="Gregory Barker" party="Conservative" />
+<marker name="Bexleyheath and Crayford" lat="51.463045263179" lng="0.16296026405953" personid="11408" mpname="David Evennett" party="Conservative" />
+<marker name="Birkenhead" lat="53.385428479876" lng="-3.0410890199355" personid="10197" mpname="Frank Field" party="Labour" />
+<marker name="Birmingham, Edgbaston" lat="52.452518106522" lng="-1.965506459438" personid="10577" mpname="Gisela Stuart" party="Labour" />
+<marker name="Birmingham, Erdington" lat="52.524997815107" lng="-1.8374300062672" personid="24825" mpname="Jack Dromey" party="Labour" />
+<marker name="Birmingham, Hall Green" lat="52.442029452723" lng="-1.8705261683815" personid="10231" mpname="Roger Godsiff" party="Labour" />
+<marker name="Birmingham, Hodge Hill" lat="52.489154869774" lng="-1.8136015753251" personid="11360" mpname="Liam Byrne" party="Labour" />
+<marker name="Birmingham, Ladywood" lat="52.488560703704" lng="-1.8987760522534" personid="24788" mpname="Shabana Mahmood" party="Labour" />
+<marker name="Birmingham, Northfield" lat="52.406881469432" lng="-1.9693557751789" personid="10076" mpname="Richard Burden" party="Labour" />
+<marker name="Birmingham, Perry Barr" lat="52.525805250313" lng="-1.9133860099537" personid="11087" mpname="Khalid Mahmood" party="Labour" />
+<marker name="Birmingham, Selly Oak" lat="52.423674392278" lng="-1.9085837985738" personid="10377" mpname="Stephen McCabe" party="Labour" />
+<marker name="Birmingham, Yardley" lat="52.461535799557" lng="-1.8087088358971" personid="11420" mpname="John Hemming" party="Liberal Democrat" />
+<marker name="Bishop Auckland" lat="54.600340374274" lng="-1.9751223135784" personid="11421" mpname="Helen Goodman" party="Labour" />
+<marker name="Blackburn" lat="53.743911518468" lng="-2.4971448153966" personid="10574" mpname="Jack Straw" party="Labour" />
+<marker name="Blackley and Broughton" lat="53.51602006457" lng="-2.2335357894582" personid="10576" mpname="Graham Stringer" party="Labour" />
+<marker name="Blackpool North and Cleveleys" lat="53.858146286111" lng="-3.0326161010202" personid="24764" mpname="Paul Maynard" party="Conservative" />
+<marker name="Blackpool South" lat="53.798301295416" lng="-3.0334262647417" personid="10415" mpname="Gordon Marsden" party="Labour" />
+<marker name="Blaenau Gwent" lat="51.766760274031" lng="-3.193829368692" personid="24728" mpname="Nick Smith" party="Labour" />
+<marker name="Blaydon" lat="54.932126116437" lng="-1.7125127791699" personid="11427" mpname="David Anderson" party="Labour" />
+<marker name="Blyth Valley" lat="55.092072817343" lng="-1.5513046575316" personid="10089" mpname="Ronnie Campbell" party="Labour" />
+<marker name="Bognor Regis and Littlehampton" lat="50.802352829532" lng="-0.63878743500298" personid="10225" mpname="Nick Gibb" party="Conservative" />
+<marker name="Bolsover" lat="53.202045502065" lng="-1.3089239351844" personid="10544" mpname="Dennis Skinner" party="Labour" />
+<marker name="Bolton North East" lat="53.603819879493" lng="-2.4152211397812" personid="10141" mpname="David Crausby" party="Labour" />
+<marker name="Bolton South East" lat="53.552013073305" lng="-2.4171651796854" personid="24775" mpname="Yasmin Qureshi" party="Labour" />
+<marker name="Bolton West" lat="53.576348657101" lng="-2.5199136918069" personid="24881" mpname="Julie Hilling" party="Labour" />
+<marker name="Bootle" lat="53.46920832756" lng="-2.9995911098524" personid="10039" mpname="Joe Benton" party="Labour" />
+<marker name="Boston and Skegness" lat="53.032971077888" lng="0.060812008593597" personid="11224" mpname="Mark Simmonds" party="Conservative" />
+<marker name="Bosworth" lat="52.615038190934" lng="-1.3955230590223" personid="10602" mpname="David Tredinnick" party="Conservative" />
+<marker name="Bournemouth East" lat="50.738001907103" lng="-1.8284712053178" personid="11437" mpname="Tobias Ellwood" party="Conservative" />
+<marker name="Bournemouth West" lat="50.745512831651" lng="-1.9002456657086" personid="24780" mpname="Conor Burns" party="Conservative" />
+<marker name="Bracknell" lat="51.377862222055" lng="-0.79955641062444" personid="24765" mpname="Phillip Lee" party="Conservative" />
+<marker name="Bradford East" lat="53.813520116008" lng="-1.7305668197868" personid="24946" mpname="David Ward" party="Liberal Democrat" />
+<marker name="Bradford South" lat="53.764924337213" lng="-1.7652872746682" personid="10579" mpname="Gerry Sutcliffe" party="Labour" />
+<marker name="Bradford West" lat="53.799865058556" lng="-1.8155581321265" personid="10543" mpname="Marsha Singh" party="Labour" />
+<marker name="Braintree" lat="51.975584781223" lng="0.57817481309335" personid="11443" mpname="Brooks Newmark" party="Conservative" />
+<marker name="Brecon and Radnorshire" lat="52.105100396319" lng="-3.4002732660319" personid="11324" mpname="Roger Williams" party="Liberal Democrat" />
+<marker name="Brent Central" lat="51.551525753136" lng="-0.25214058744586" personid="11350" mpname="Sarah Teather" party="Liberal Democrat" />
+<marker name="Brent North" lat="51.568695381369" lng="-0.29267695580394" personid="10220" mpname="Barry Gardiner" party="Labour" />
+<marker name="Brentford and Isleworth" lat="51.479372639779" lng="-0.32218453534806" personid="24913" mpname="Mary Macleod" party="Conservative" />
+<marker name="Brentwood and Ongar" lat="51.677117130428" lng="0.26560385901187" personid="10477" mpname="Eric Pickles" party="Conservative" />
+<marker name="Bridgend" lat="51.506197325384" lng="-3.641527436805" personid="11450" mpname="Madeleine Moon" party="Labour" />
+<marker name="Bridgwater and West Somerset" lat="51.135374735218" lng="-3.3242828720095" personid="11048" mpname="Ian Liddell-Grainger" party="Conservative" />
+<marker name="Brigg and Goole" lat="53.614955561155" lng="-0.72379587757551" personid="24832" mpname="Andrew Percy" party="Conservative" />
+<marker name="Brighton, Kemptown" lat="50.819913320111" lng="-0.060018094291298" personid="24900" mpname="Simon Kirby" party="Conservative" />
+<marker name="Brighton, Pavilion" lat="50.858669583604" lng="-0.13994798747081" personid="24910" mpname="Caroline Lucas" party="Green" />
+<marker name="Bristol East" lat="51.454710308276" lng="-2.539326042831" personid="11455" mpname="Kerry McCarthy" party="Labour" />
+<marker name="Bristol North West" lat="51.455628106607" lng="-2.8467088472742" personid="24891" mpname="Charlotte Leslie" party="Conservative" />
+<marker name="Bristol South" lat="51.423540050972" lng="-2.5979476911218" personid="10489" mpname="Dawn Primarolo" party="Labour" />
+<marker name="Bristol West" lat="51.462145983513" lng="-2.5902611710096" personid="11458" mpname="Stephen Williams" party="Liberal Democrat" />
+<marker name="Broadland" lat="52.74743687584" lng="1.179320644591" personid="10542" mpname="Keith Simpson" party="Conservative" />
+<marker name="Bromley and Chislehurst" lat="51.410541091334" lng="0.0562759162119" personid="13736" mpname="Bob Neill" party="Conservative" />
+<marker name="Bromsgrove" lat="52.361759852032" lng="-2.0160370010409" personid="24854" mpname="Sajid Javid" party="Conservative" />
+<marker name="Broxbourne" lat="51.720651306786" lng="-0.068065288219667" personid="11461" mpname="Charles Walker" party="Conservative" />
+<marker name="Broxtowe" lat="52.964488497211" lng="-1.2532214071252" personid="24772" mpname="Anna Soubry" party="Conservative" />
+<marker name="Buckingham" lat="51.893800093209" lng="-0.89384953149411" personid="10040" mpname="John Bercow" party="Speaker" />
+<marker name="Burnley" lat="53.778933760983" lng="-2.2219475651699" personid="24793" mpname="Gordon Birtwistle" party="Liberal Democrat" />
+<marker name="Burton" lat="52.897494385548" lng="-1.8087396037042" personid="24826" mpname="Andrew Griffiths" party="Conservative" />
+<marker name="Bury North" lat="53.617943541841" lng="-2.3199256301762" personid="24877" mpname="David Nuttall" party="Conservative" />
+<marker name="Bury South" lat="53.556164516928" lng="-2.3047845352955" personid="10357" mpname="Ivan Lewis" party="Labour" />
+<marker name="Bury St Edmunds" lat="52.247719921097" lng="0.89461734801575" personid="10520" mpname="David Ruffley" party="Conservative" />
+<marker name="Caerphilly" lat="51.607856223129" lng="-3.2177696422046" personid="10842" mpname="Wayne David" party="Labour" />
+<marker name="Caithness, Sutherland and Easter Ross" lat="58.219625814012" lng="-4.2448504435711" personid="11280" mpname="John Thurso" party="Liberal Democrat" />
+<marker name="Calder Valley" lat="53.717883835167" lng="-1.9922306689922" personid="24944" mpname="Craig Whittaker" party="Conservative" />
+<marker name="Camberwell and Peckham" lat="51.470158155432" lng="-0.071078592159695" personid="10260" mpname="Harriet Harman" party="Labour" />
+<marker name="Camborne and Redruth" lat="50.188191580911" lng="-5.2392562972857" personid="24933" mpname="George Eustice" party="Conservative" />
+<marker name="Cambridge" lat="52.202107198538" lng="0.13109939693381" personid="24892" mpname="Julian Huppert" party="Liberal Democrat" />
+<marker name="Cannock Chase" lat="52.712401738514" lng="-1.9802171694756" personid="24844" mpname="Aidan Burley" party="Conservative" />
+<marker name="Canterbury" lat="51.268548314495" lng="1.0874923027466" personid="10065" mpname="Julian Brazier" party="Conservative" />
+<marker name="Cardiff Central" lat="51.504794886607" lng="-3.1633194955425" personid="11480" mpname="Jennifer Willott" party="Liberal Democrat" />
+<marker name="Cardiff North" lat="51.531874921889" lng="-3.1906760355159" personid="22650" mpname="Jonathan Evans" party="Conservative" />
+<marker name="Cardiff South and Penarth" lat="51.466960160697" lng="-3.1524424584242" personid="10431" mpname="Alun Michael" party="Labour" />
+<marker name="Cardiff West" lat="51.506100292319" lng="-3.2694652527417" personid="10753" mpname="Kevin Brennan" party="Labour" />
+<marker name="Carlisle" lat="54.867483768912" lng="-2.9506742354803" personid="24799" mpname="John Stevenson" party="Conservative" />
+<marker name="Carmarthen East and Dinefwr" lat="51.947351273745" lng="-4.0346205841216" personid="24743" mpname="Jonathan Edwards" party="Plaid Cymru" />
+<marker name="Carmarthen West and South Pembrokeshire" lat="51.798482479288" lng="-4.6319199181109" personid="24813" mpname="Simon Hart" party="Conservative" />
+<marker name="Carshalton and Wallington" lat="51.361414732526" lng="-0.15506125977321" personid="10063" mpname="Tom Brake" party="Liberal Democrat" />
+<marker name="Castle Point" lat="51.536578380136" lng="0.59403035428576" personid="24731" mpname="Rebecca Harris" party="Conservative" />
+<marker name="Central Ayrshire" lat="55.556231202539" lng="-4.5677385992566" personid="10173" mpname="Brian H Donohoe" party="Labour" />
+<marker name="Central Devon" lat="50.73993243094" lng="-3.7770203864116" personid="24914" mpname="Mel Stride" party="Conservative" />
+<marker name="Central Suffolk and North Ipswich" lat="52.221567022563" lng="1.2211240748776" personid="24756" mpname="Daniel Poulter" party="Conservative" />
+<marker name="Ceredigion" lat="52.255961904094" lng="-4.0721739898799" personid="11489" mpname="Mark Williams" party="Liberal Democrat" />
+<marker name="Charnwood" lat="52.698687150342" lng="-1.133201729411" personid="10175" mpname="Stephen Dorrell" party="Conservative" />
+<marker name="Chatham and Aylesford" lat="51.329796548762" lng="0.48375485557245" personid="24871" mpname="Tracey Crouch" party="Conservative" />
+<marker name="Cheadle" lat="53.370395913169" lng="-2.1847498017527" personid="12016" mpname="Mark Hunter" party="Liberal Democrat" />
+<marker name="Chelmsford" lat="51.724905431589" lng="0.48293003002402" personid="10079" mpname="Simon Burns" party="Conservative" />
+<marker name="Chelsea and Fulham" lat="51.479299281856" lng="-0.19051135789324" personid="11610" mpname="Greg Hands" party="Conservative" />
+<marker name="Cheltenham" lat="51.890905810332" lng="-2.0736477424457" personid="11494" mpname="Martin Horwood" party="Liberal Democrat" />
+<marker name="Chesham and Amersham" lat="51.680526530659" lng="-0.6277858690025" personid="10228" mpname="Cheryl Gillan" party="Conservative" />
+<marker name="Chesterfield" lat="53.24837757786" lng="-1.4169626847179" personid="24845" mpname="Toby Perkins" party="Labour" />
+<marker name="Chichester" lat="50.926742897833" lng="-0.77954018992857" personid="10613" mpname="Andrew Tyrie" party="Conservative" />
+<marker name="Chingford and Woodford Green" lat="51.617378463964" lng="0.0042991885955913" personid="10180" mpname="Iain Duncan Smith" party="Conservative" />
+<marker name="Chippenham" lat="51.387239798248" lng="-2.1818396258411" personid="24865" mpname="Duncan Hames" party="Liberal Democrat" />
+<marker name="Chipping Barnet" lat="51.638442911473" lng="-0.18989190110197" personid="11500" mpname="Theresa Villiers" party="Conservative" />
+<marker name="Chorley" lat="53.663092511757" lng="-2.6115206808722" personid="10295" mpname="Lindsay Hoyle" party="Labour" />
+<marker name="Christchurch" lat="50.790229250359" lng="-1.8304912172005" personid="10103" mpname="Christopher Chope" party="Conservative" />
+<marker name="Cities of London and Westminster" lat="51.507488279094" lng="-0.13866781998635" personid="10884" mpname="Mark Field" party="Conservative" />
+<marker name="City of Chester" lat="53.190329008408" lng="-2.907787736473" personid="24750" mpname="Stephen Mosley" party="Conservative" />
+<marker name="City of Durham" lat="54.764113516686" lng="-1.5659928529949" personid="11558" mpname="Roberta Blackman-Woods" party="Labour" />
+<marker name="Clacton" lat="51.833101262559" lng="1.1594338245221" personid="11621" mpname="Douglas Carswell" party="Conservative" />
+<marker name="Cleethorpes" lat="53.597783991645" lng="-0.24454056096165" personid="24814" mpname="Martin Vickers" party="Conservative" />
+<marker name="Clwyd South" lat="52.963941209444" lng="-3.1376113233819" personid="24720" mpname="Susan Elan Jones" party="Labour" />
+<marker name="Clwyd West" lat="53.121052434367" lng="-3.4925180086248" personid="11506" mpname="David Jones" party="Conservative" />
+<marker name="Coatbridge, Chryston and Bellshill" lat="55.88024231715" lng="-4.0662634033561" personid="10116" mpname="Tom Clarke" party="Labour" />
+<marker name="Colchester" lat="51.88818150848" lng="0.90006428391389" personid="10521" mpname="Bob Russell" party="Liberal Democrat" />
+<marker name="Colne Valley" lat="53.592410240646" lng="-1.8563474537856" personid="24887" mpname="Jason McCartney" party="Conservative" />
+<marker name="Congleton" lat="53.161442339582" lng="-2.3051673870365" personid="24857" mpname="Fiona Bruce" party="Conservative" />
+<marker name="Copeland" lat="54.47611505615" lng="-3.3221289633662" personid="11511" mpname="Jamie Reed" party="Labour" />
+<marker name="Corby" lat="52.474391860629" lng="-0.54522089083402" personid="24833" mpname="Louise Bagshawe" party="Conservative" />
+<marker name="Coventry North East" lat="52.426723554454" lng="-1.4676028061143" personid="10005" mpname="Bob Ainsworth" party="Labour" />
+<marker name="Coventry North West" lat="52.431301938528" lng="-1.5554081468833" personid="10506" mpname="Geoffrey Robinson" party="Labour" />
+<marker name="Coventry South" lat="52.391781802938" lng="-1.5211563165671" personid="10147" mpname="Jim Cunningham" party="Labour" />
+<marker name="Crawley" lat="51.125476921404" lng="-0.18203090836475" personid="24802" mpname="Henry Smith" party="Conservative" />
+<marker name="Crewe and Nantwich" lat="53.062619646275" lng="-2.4298106826357" personid="14128" mpname="Edward Timpson" party="Conservative" />
+<marker name="Croydon Central" lat="51.366760428619" lng="-0.049855936428665" personid="24863" mpname="Gavin Barwell" party="Conservative" />
+<marker name="Croydon North" lat="51.399251940551" lng="-0.10323493589105" personid="10633" mpname="Malcolm Wicks" party="Labour" />
+<marker name="Croydon South" lat="51.330719911288" lng="-0.10276389835691" personid="10468" mpname="Richard Ottaway" party="Conservative" />
+<marker name="Cumbernauld, Kilsyth and Kirkintilloch East" lat="55.975164740807" lng="-4.095273588889" personid="24733" mpname="Gregg McClymont" party="Labour" />
+<marker name="Cynon Valley" lat="51.717982035413" lng="-3.451589888347" personid="10120" mpname="Ann Clwyd" party="Labour" />
+<marker name="Dagenham and Rainham" lat="51.530881225485" lng="0.18315272637113" personid="10828" mpname="Jon Cruddas" party="Labour" />
+<marker name="Darlington" lat="54.532012199004" lng="-1.5566357832446" personid="24711" mpname="Jenny Chapman" party="Labour" />
+<marker name="Dartford" lat="51.421524169203" lng="0.26325689343011" personid="24803" mpname="Gareth Johnson" party="Conservative" />
+<marker name="Daventry" lat="52.307575607968" lng="-1.0316529040352" personid="24841" mpname="Chris Heaton-Harris" party="Conservative" />
+<marker name="Delyn" lat="53.242887424394" lng="-3.220762701209" personid="10259" mpname="David Hanson" party="Labour" />
+<marker name="Denton and Reddish" lat="53.453856686579" lng="-2.1275923503942" personid="11531" mpname="Andrew Gwynne" party="Labour" />
+<marker name="Derby North" lat="52.921814822211" lng="-1.4907944059256" personid="24830" mpname="Chris Williamson" party="Labour" />
+<marker name="Derby South" lat="52.892402621687" lng="-1.4609184636817" personid="10031" mpname="Margaret Beckett" party="Labour" />
+<marker name="Derbyshire Dales" lat="53.114951736408" lng="-1.6735354811793" personid="10397" mpname="Patrick McLoughlin" party="Conservative" />
+<marker name="Devizes" lat="51.347466413142" lng="-1.7772318530018" personid="24915" mpname="Claire Perry" party="Conservative" />
+<marker name="Dewsbury" lat="53.625937460874" lng="-1.6659762231792" personid="24858" mpname="Simon Reevell" party="Conservative" />
+<marker name="Don Valley" lat="53.503818770382" lng="-1.0535968038509" personid="10202" mpname="Caroline Flint" party="Labour" />
+<marker name="Doncaster Central" lat="53.535706486452" lng="-1.0868014384516" personid="10648" mpname="Rosie Winterton" party="Labour" />
+<marker name="Doncaster North" lat="53.585871324675" lng="-1.1388028537927" personid="11545" mpname="Edward Miliband" party="Labour" />
+<marker name="Dover" lat="51.178971384231" lng="1.2886911356376" personid="24777" mpname="Charlie Elphicke" party="Conservative" />
+<marker name="Dudley North" lat="52.522277149618" lng="-2.1066136065517" personid="11553" mpname="Ian Austin" party="Labour" />
+<marker name="Dudley South" lat="52.49227797615" lng="-2.1373560336498" personid="24838" mpname="Chris Kelly" party="Conservative" />
+<marker name="Dulwich and West Norwood" lat="51.444237546021" lng="-0.091555235516657" personid="10326" mpname="Tessa Jowell" party="Labour" />
+<marker name="Dumfries and Galloway" lat="54.987211819627" lng="-4.2785783554225" personid="10070" mpname="Russell Brown" party="Labour" />
+<marker name="Dumfriesshire, Clydesdale and Tweeddale" lat="55.364642922205" lng="-3.4576060233028" personid="11970" mpname="David Mundell" party="Conservative" />
+<marker name="Dundee East" lat="56.51181367876" lng="-2.8465921636628" personid="11973" mpname="Stewart Hosie" party="Scottish National Party" />
+<marker name="Dundee West" lat="56.505042307077" lng="-3.0629989623174" personid="11974" mpname="Jim McGovern" party="Labour" />
+<marker name="Dunfermline and West Fife" lat="56.08364494896" lng="-3.5232490523654" personid="24730" mpname="Thomas Docherty" party="Labour" />
+<marker name="Dwyfor Meirionnydd" lat="52.846192166631" lng="-4.0010686795259" personid="10368" mpname="Elfyn Llwyd" party="Plaid Cymru" />
+<marker name="Ealing Central and Acton" lat="51.515176297488" lng="-0.28291286813762" personid="24952" mpname="Angie Bray" party="Conservative" />
+<marker name="Ealing North" lat="51.53754973587" lng="-0.35079252020706" personid="10484" mpname="Stephen Pound" party="Labour" />
+<marker name="Ealing, Southall" lat="51.507129747778" lng="-0.35913323340142" personid="13934" mpname="Virendra Sharma" party="Labour" />
+<marker name="Easington" lat="54.776358583255" lng="-1.3556570861516" personid="24715" mpname="Grahame Morris" party="Labour" />
+<marker name="East Antrim" lat="54.832336" lng="-5.883179" personid="11374" mpname="Sammy Wilson" party="DUP" />
+<marker name="East Devon" lat="50.716258085613" lng="-3.3498854331393" personid="11265" mpname="Hugo Swire" party="Conservative" />
+<marker name="East Dunbartonshire" lat="55.935584565284" lng="-4.2739697750299" personid="11971" mpname="Jo Swinson" party="Liberal Democrat" />
+<marker name="East Ham" lat="51.523859873315" lng="0.057053127047556" personid="10596" mpname="Stephen Timms" party="Labour" />
+<marker name="East Hampshire" lat="51.091398549911" lng="-0.95172721740485" personid="24782" mpname="Damian Hinds" party="Conservative" />
+<marker name="East Kilbride, Strathaven and Lesmahagow" lat="55.664744201649" lng="-4.0743974425141" personid="24717" mpname="Michael McCann" party="Labour" />
+<marker name="East Londonderry" lat="54.980766" lng="-6.904907" personid="10780" mpname="Gregory Campbell" party="DUP" />
+<marker name="East Lothian" lat="55.941990206765" lng="-2.720861511925" personid="24723" mpname="Fiona O'Donnell" party="Labour" />
+<marker name="East Renfrewshire" lat="55.75300363723" lng="-4.3594080429548" personid="10453" mpname="Jim Murphy" party="Labour" />
+<marker name="East Surrey" lat="51.224847817236" lng="-0.048369153707403" personid="24789" mpname="Sam Gyimah" party="Conservative" />
+<marker name="East Worthing and Shoreham" lat="50.842489109527" lng="-0.31666051657991" personid="10371" mpname="Tim Loughton" party="Conservative" />
+<marker name="East Yorkshire" lat="53.992595489719" lng="-0.53233689936083" personid="11026" mpname="Greg Knight" party="Conservative" />
+<marker name="Eastbourne" lat="50.780674767" lng="0.25936272995721" personid="24754" mpname="Stephen Lloyd" party="Liberal Democrat" />
+<marker name="Eastleigh" lat="50.927950837639" lng="-1.3224027449345" personid="11565" mpname="Christopher Huhne" party="Liberal Democrat" />
+<marker name="Eddisbury" lat="53.107429017626" lng="-2.6561048551814" personid="10670" mpname="Stephen O'Brien" party="Conservative" />
+<marker name="Edinburgh East" lat="55.944403524792" lng="-3.1392311754153" personid="24763" mpname="Sheila Gilmore" party="Labour" />
+<marker name="Edinburgh North and Leith" lat="55.969710143918" lng="-3.2050465019259" personid="11038" mpname="Mark Lazarowicz" party="Labour" />
+<marker name="Edinburgh South" lat="55.912081270334" lng="-3.1723451572687" personid="24872" mpname="Ian Murray" party="Labour" />
+<marker name="Edinburgh South West" lat="55.884503451328" lng="-3.3150782571825" personid="10153" mpname="Alistair Darling" party="Labour" />
+<marker name="Edinburgh West" lat="55.953036766332" lng="-3.3509265722688" personid="24794" mpname="Michael Crockart" party="Liberal Democrat" />
+<marker name="Edmonton" lat="51.628921490569" lng="-0.053089035632267" personid="10372" mpname="Andrew Love" party="Labour" />
+<marker name="Ellesmere Port and Neston" lat="53.277574951599" lng="-2.9295916653302" personid="10435" mpname="Andrew Miller" party="Labour" />
+<marker name="Elmet and Rothwell" lat="53.835200345813" lng="-1.4018406064582" personid="24893" mpname="Alec Shelbrooke" party="Conservative" />
+<marker name="Eltham" lat="51.455704424663" lng="0.054894450774642" personid="10185" mpname="Clive Efford" party="Labour" />
+<marker name="Enfield North" lat="51.668618953589" lng="-0.079351046481043" personid="24859" mpname="Nick de Bois" party="Conservative" />
+<marker name="Enfield, Southgate" lat="51.642198456208" lng="-0.12578670612582" personid="11573" mpname="David Burrowes" party="Conservative" />
+<marker name="Epping Forest" lat="51.681568061945" lng="0.06307034999052" personid="10348" mpname="Eleanor Laing" party="Conservative" />
+<marker name="Epsom and Ewell" lat="51.330341400592" lng="-0.2666259611255" personid="10920" mpname="Chris Grayling" party="Conservative" />
+<marker name="Erewash" lat="52.921680931256" lng="-1.3085169010515" personid="24757" mpname="Jessica Lee" party="Conservative" />
+<marker name="Erith and Thamesmead" lat="51.492610104431" lng="0.13237702012952" personid="24956" mpname="Teresa Pearce" party="Labour" />
+<marker name="Esher and Walton" lat="51.356916484166" lng="-0.38072793174394" personid="24815" mpname="Dominic Raab" party="Conservative" />
+<marker name="Exeter" lat="50.726522792795" lng="-3.5190355268225" personid="10061" mpname="Ben Bradshaw" party="Labour" />
+<marker name="Falkirk" lat="56.016798507164" lng="-3.844674464285" personid="10685" mpname="Eric Joyce" party="Labour" />
+<marker name="Fareham" lat="50.857385117371" lng="-1.2273301026274" personid="10964" mpname="Mark Hoban" party="Conservative" />
+<marker name="Faversham and Mid Kent" lat="51.262675575081" lng="0.72298407131595" personid="11190" mpname="Hugh Robertson" party="Conservative" />
+<marker name="Feltham and Heston" lat="51.458727883437" lng="-0.40559540259209" personid="10329" mpname="Alan Keen" party="Labour" />
+<marker name="Fermanagh and South Tyrone" lat="54.354958" lng="-7.443237" personid="10913" mpname="Michelle Gildernew" party="Sinn Fein" />
+<marker name="Filton and Bradley Stoke" lat="51.539456263926" lng="-2.5961317518455" personid="24716" mpname="Jack Lopresti" party="Conservative" />
+<marker name="Finchley and Golders Green" lat="51.587933477829" lng="-0.18995390787843" personid="24934" mpname="Mike Freer" party="Conservative" />
+<marker name="Folkestone and Hythe" lat="51.0626939278" lng="0.98516282090679" personid="24744" mpname="Damian Collins" party="Conservative" />
+<marker name="Forest of Dean" lat="51.837133410371" lng="-2.4684122740047" personid="11588" mpname="Mark Harper" party="Conservative" />
+<marker name="Foyle" lat="54.933453" lng="-7.267456" personid="11589" mpname="Mark Durkan" party="Social Democratic and Labour Party" />
+<marker name="Fylde" lat="53.783376995058" lng="-2.9163990167743" personid="24804" mpname="Mark Menzies" party="Conservative" />
+<marker name="Gainsborough" lat="53.389054218722" lng="-0.46892036272244" personid="10352" mpname="Edward Leigh" party="Conservative" />
+<marker name="Garston and Halewood" lat="53.358702103276" lng="-2.8531312908275" personid="10183" mpname="Maria Eagle" party="Labour" />
+<marker name="Gateshead" lat="54.945845396994" lng="-1.5985700099067" personid="24919" mpname="Ian Mearns" party="Labour" />
+<marker name="Gedling" lat="52.984528457761" lng="-1.0876165371912" personid="10121" mpname="Vernon Coaker" party="Labour" />
+<marker name="Aberavon" lat="51.617052671925" lng="-3.7259215814391" personid="10900" mpname="Hywel Francis" party="Labour" />
+<marker name="Aberconwy" lat="53.133984544289" lng="-3.8465490048539" personid="24736" mpname="Guto Bebb" party="Conservative" />
+<marker name="Aberdeen North" lat="57.165695055819" lng="-2.161207452489" personid="10174" mpname="Frank Doran" party="Labour" />
+<marker name="Aberdeen South" lat="57.120713274419" lng="-2.1819499261746" personid="10032" mpname="Anne Begg" party="Labour" />
+<marker name="Airdrie and Shotts" lat="55.850637906238" lng="-3.8717669935801" personid="24737" mpname="Pamela Nash" party="Labour" />
+<marker name="Aldershot" lat="51.285408083107" lng="-0.77700042817856" personid="10293" mpname="Gerald Howarth" party="Conservative" />
+<marker name="Aldridge-Brownhills" lat="52.614322382415" lng="-1.9281619618534" personid="10537" mpname="Richard Shepherd" party="Conservative" />
+<marker name="Altrincham and Sale West" lat="53.393517976576" lng="-2.3657133302338" personid="10062" mpname="Graham Brady" party="Conservative" />
+<marker name="Alyn and Deeside" lat="53.164814589666" lng="-3.0413342285415" personid="11267" mpname="Mark Tami" party="Labour" />
+<marker name="Amber Valley" lat="53.039946156328" lng="-1.3999992562506" personid="24965" mpname="Nigel Mills" party="Conservative" />
+<marker name="Angus" lat="56.74629333485" lng="-2.9160515158179" personid="11312" mpname="Michael Weir" party="Scottish National Party" />
+<marker name="Arfon" lat="53.136728077835" lng="-4.1415934528685" personid="11323" mpname="Hywel Williams" party="Plaid Cymru" />
+<marker name="Argyll and Bute" lat="56.123598733744" lng="-5.5015484991072" personid="11185" mpname="Alan Reid" party="Liberal Democrat" />
+<marker name="Arundel and South Downs" lat="50.927793376363" lng="-0.45466725989486" personid="11377" mpname="Nick Herbert" party="Conservative" />
+<marker name="Ashfield" lat="53.093063839209" lng="-1.2720119444944" personid="24811" mpname="Gloria De Piero" party="Labour" />
+<marker name="Ashford" lat="51.128455966232" lng="0.7914055483215" personid="10241" mpname="Damian Green" party="Conservative" />
+<marker name="Ashton-under-Lyne" lat="53.497795690773" lng="-2.1163863044321" personid="10961" mpname="David Heyes" party="Labour" />
+<marker name="Aylesbury" lat="51.732070083341" lng="-0.79807932887347" personid="10361" mpname="David Lidington" party="Conservative" />
+<marker name="Ayr, Carrick and Cumnock" lat="55.275561652148" lng="-4.5777892108559" personid="10467" mpname="Sandra Osborne" party="Labour" />
+<marker name="Banbury" lat="51.991067641737" lng="-1.2863027813451" personid="10023" mpname="Tony Baldry" party="Conservative" />
+<marker name="Banff and Buchan" lat="57.549160635008" lng="-2.2675504088983" personid="24812" mpname="Eilidh Whiteford" party="Scottish National Party" />
+<marker name="Barking" lat="51.536788699423" lng="0.11658173035201" personid="10281" mpname="Margaret Hodge" party="Labour" />
+<marker name="Barnsley Central" lat="53.57651472709" lng="-1.4884804272548" personid="10305" mpname="Eric Illsley" party="Labour" />
+<marker name="Barnsley East" lat="53.542665539575" lng="-1.4077426728219" personid="24762" mpname="Michael Dugher" party="Labour" />
+<marker name="Barrow and Furness" lat="54.190187418887" lng="-3.1600607944067" personid="24837" mpname="John Woodcock" party="Labour" />
+<marker name="Basildon and Billericay" lat="51.603612970572" lng="0.43556320942062" personid="10715" mpname="John Baron" party="Conservative" />
+<marker name="Basingstoke" lat="51.266481018413" lng="-1.0658936397982" personid="11389" mpname="Maria Miller" party="Conservative" />
+<marker name="Bassetlaw" lat="53.354928821267" lng="-0.98858825145522" personid="11093" mpname="John Mann" party="Labour" />
+<marker name="Bath" lat="51.380241453341" lng="-2.3667312098218" personid="10208" mpname="Don Foster" party="Liberal Democrat" />
+<marker name="Batley and Spen" lat="53.723254722105" lng="-1.6845534949676" personid="10650" mpname="Mike Wood" party="Labour" />
+<marker name="Battersea" lat="51.466707157904" lng="-0.16205967427669" personid="24719" mpname="Jane Ellison" party="Conservative" />
+<marker name="Beaconsfield" lat="51.562278656904" lng="-0.61800596983428" personid="10243" mpname="Dominic Grieve" party="Conservative" />
+<marker name="Beckenham" lat="51.380994743691" lng="0.0055233913402021" personid="24907" mpname="Bob Stewart" party="Conservative" />
+<marker name="Bedford" lat="52.131903537719" lng="-0.4642708262952" personid="24787" mpname="Richard Fuller" party="Conservative" />
+<marker name="Belfast East" lat="54.598324" lng="-5.892792" personid="13814" mpname="Naomi Long" party="Alliance" />
+<marker name="Belfast North" lat="54.618607" lng="-5.917511" personid="10857" mpname="Nigel Dodds" party="DUP" />
+<marker name="Belfast South" lat="54.582409" lng="-5.925064" personid="11402" mpname="Alasdair McDonnell" party="Social Democratic and Labour Party" />
+<marker name="Belfast West" lat="54.606277" lng="-5.95665" personid="10002" mpname="Gerry Adams" party="Sinn Fein" />
+<marker name="Bermondsey and Old Southwark" lat="51.496708609404" lng="-0.073154752478991" personid="10298" mpname="Simon Hughes" party="Liberal Democrat" />
+<marker name="Berwick-upon-Tweed" lat="55.432899817447" lng="-1.9310587893186" personid="10034" mpname="Alan Beith" party="Liberal Democrat" />
+<marker name="Berwickshire, Roxburgh and Selkirk" lat="55.565510977995" lng="-2.6698750643435" personid="10439" mpname="Michael Moore" party="Liberal Democrat" />
+<marker name="Bethnal Green and Bow" lat="51.526711621105" lng="-0.04785752126435" personid="24958" mpname="Rushanara Ali" party="Labour" />
+<marker name="Beverley and Holderness" lat="53.795374985277" lng="-0.23011449319665" personid="11406" mpname="Graham Stuart" party="Conservative" />
+<marker name="Bexhill and Battle" lat="50.943164364084" lng="0.42855682130917" personid="10713" mpname="Gregory Barker" party="Conservative" />
+<marker name="Bexleyheath and Crayford" lat="51.463045263179" lng="0.16296026405953" personid="11408" mpname="David Evennett" party="Conservative" />
+<marker name="Birkenhead" lat="53.385428479876" lng="-3.0410890199355" personid="10197" mpname="Frank Field" party="Labour" />
+<marker name="Birmingham, Edgbaston" lat="52.452518106522" lng="-1.965506459438" personid="10577" mpname="Gisela Stuart" party="Labour" />
+<marker name="Birmingham, Erdington" lat="52.524997815107" lng="-1.8374300062672" personid="24825" mpname="Jack Dromey" party="Labour" />
+<marker name="Birmingham, Hall Green" lat="52.442029452723" lng="-1.8705261683815" personid="10231" mpname="Roger Godsiff" party="Labour" />
+<marker name="Birmingham, Hodge Hill" lat="52.489154869774" lng="-1.8136015753251" personid="11360" mpname="Liam Byrne" party="Labour" />
+<marker name="Birmingham, Ladywood" lat="52.488560703704" lng="-1.8987760522534" personid="24788" mpname="Shabana Mahmood" party="Labour" />
+<marker name="Birmingham, Northfield" lat="52.406881469432" lng="-1.9693557751789" personid="10076" mpname="Richard Burden" party="Labour" />
+<marker name="Birmingham, Perry Barr" lat="52.525805250313" lng="-1.9133860099537" personid="11087" mpname="Khalid Mahmood" party="Labour" />
+<marker name="Birmingham, Selly Oak" lat="52.423674392278" lng="-1.9085837985738" personid="10377" mpname="Stephen McCabe" party="Labour" />
+<marker name="Birmingham, Yardley" lat="52.461535799557" lng="-1.8087088358971" personid="11420" mpname="John Hemming" party="Liberal Democrat" />
+<marker name="Bishop Auckland" lat="54.600340374274" lng="-1.9751223135784" personid="11421" mpname="Helen Goodman" party="Labour" />
+<marker name="Blackburn" lat="53.743911518468" lng="-2.4971448153966" personid="10574" mpname="Jack Straw" party="Labour" />
+<marker name="Blackley and Broughton" lat="53.51602006457" lng="-2.2335357894582" personid="10576" mpname="Graham Stringer" party="Labour" />
+<marker name="Blackpool North and Cleveleys" lat="53.858146286111" lng="-3.0326161010202" personid="24764" mpname="Paul Maynard" party="Conservative" />
+<marker name="Blackpool South" lat="53.798301295416" lng="-3.0334262647417" personid="10415" mpname="Gordon Marsden" party="Labour" />
+<marker name="Blaenau Gwent" lat="51.766760274031" lng="-3.193829368692" personid="24728" mpname="Nick Smith" party="Labour" />
+<marker name="Blaydon" lat="54.932126116437" lng="-1.7125127791699" personid="11427" mpname="David Anderson" party="Labour" />
+<marker name="Blyth Valley" lat="55.092072817343" lng="-1.5513046575316" personid="10089" mpname="Ronnie Campbell" party="Labour" />
+<marker name="Bognor Regis and Littlehampton" lat="50.802352829532" lng="-0.63878743500298" personid="10225" mpname="Nick Gibb" party="Conservative" />
+<marker name="Bolsover" lat="53.202045502065" lng="-1.3089239351844" personid="10544" mpname="Dennis Skinner" party="Labour" />
+<marker name="Bolton North East" lat="53.603819879493" lng="-2.4152211397812" personid="10141" mpname="David Crausby" party="Labour" />
+<marker name="Bolton South East" lat="53.552013073305" lng="-2.4171651796854" personid="24775" mpname="Yasmin Qureshi" party="Labour" />
+<marker name="Bolton West" lat="53.576348657101" lng="-2.5199136918069" personid="24881" mpname="Julie Hilling" party="Labour" />
+<marker name="Bootle" lat="53.46920832756" lng="-2.9995911098524" personid="10039" mpname="Joe Benton" party="Labour" />
+<marker name="Boston and Skegness" lat="53.032971077888" lng="0.060812008593597" personid="11224" mpname="Mark Simmonds" party="Conservative" />
+<marker name="Bosworth" lat="52.615038190934" lng="-1.3955230590223" personid="10602" mpname="David Tredinnick" party="Conservative" />
+<marker name="Bournemouth East" lat="50.738001907103" lng="-1.8284712053178" personid="11437" mpname="Tobias Ellwood" party="Conservative" />
+<marker name="Bournemouth West" lat="50.745512831651" lng="-1.9002456657086" personid="24780" mpname="Conor Burns" party="Conservative" />
+<marker name="Bracknell" lat="51.377862222055" lng="-0.79955641062444" personid="24765" mpname="Phillip Lee" party="Conservative" />
+<marker name="Bradford East" lat="53.813520116008" lng="-1.7305668197868" personid="24946" mpname="David Ward" party="Liberal Democrat" />
+<marker name="Bradford South" lat="53.764924337213" lng="-1.7652872746682" personid="10579" mpname="Gerry Sutcliffe" party="Labour" />
+<marker name="Bradford West" lat="53.799865058556" lng="-1.8155581321265" personid="10543" mpname="Marsha Singh" party="Labour" />
+<marker name="Braintree" lat="51.975584781223" lng="0.57817481309335" personid="11443" mpname="Brooks Newmark" party="Conservative" />
+<marker name="Brecon and Radnorshire" lat="52.105100396319" lng="-3.4002732660319" personid="11324" mpname="Roger Williams" party="Liberal Democrat" />
+<marker name="Brent Central" lat="51.551525753136" lng="-0.25214058744586" personid="11350" mpname="Sarah Teather" party="Liberal Democrat" />
+<marker name="Brent North" lat="51.568695381369" lng="-0.29267695580394" personid="10220" mpname="Barry Gardiner" party="Labour" />
+<marker name="Brentford and Isleworth" lat="51.479372639779" lng="-0.32218453534806" personid="24913" mpname="Mary Macleod" party="Conservative" />
+<marker name="Brentwood and Ongar" lat="51.677117130428" lng="0.26560385901187" personid="10477" mpname="Eric Pickles" party="Conservative" />
+<marker name="Bridgend" lat="51.506197325384" lng="-3.641527436805" personid="11450" mpname="Madeleine Moon" party="Labour" />
+<marker name="Bridgwater and West Somerset" lat="51.135374735218" lng="-3.3242828720095" personid="11048" mpname="Ian Liddell-Grainger" party="Conservative" />
+<marker name="Brigg and Goole" lat="53.614955561155" lng="-0.72379587757551" personid="24832" mpname="Andrew Percy" party="Conservative" />
+<marker name="Brighton, Kemptown" lat="50.819913320111" lng="-0.060018094291298" personid="24900" mpname="Simon Kirby" party="Conservative" />
+<marker name="Brighton, Pavilion" lat="50.858669583604" lng="-0.13994798747081" personid="24910" mpname="Caroline Lucas" party="Green" />
+<marker name="Bristol East" lat="51.454710308276" lng="-2.539326042831" personid="11455" mpname="Kerry McCarthy" party="Labour" />
+<marker name="Bristol North West" lat="51.455628106607" lng="-2.8467088472742" personid="24891" mpname="Charlotte Leslie" party="Conservative" />
+<marker name="Bristol South" lat="51.423540050972" lng="-2.5979476911218" personid="10489" mpname="Dawn Primarolo" party="Labour" />
+<marker name="Bristol West" lat="51.462145983513" lng="-2.5902611710096" personid="11458" mpname="Stephen Williams" party="Liberal Democrat" />
+<marker name="Broadland" lat="52.74743687584" lng="1.179320644591" personid="10542" mpname="Keith Simpson" party="Conservative" />
+<marker name="Bromley and Chislehurst" lat="51.410541091334" lng="0.0562759162119" personid="13736" mpname="Bob Neill" party="Conservative" />
+<marker name="Bromsgrove" lat="52.361759852032" lng="-2.0160370010409" personid="24854" mpname="Sajid Javid" party="Conservative" />
+<marker name="Broxbourne" lat="51.720651306786" lng="-0.068065288219667" personid="11461" mpname="Charles Walker" party="Conservative" />
+<marker name="Broxtowe" lat="52.964488497211" lng="-1.2532214071252" personid="24772" mpname="Anna Soubry" party="Conservative" />
+<marker name="Buckingham" lat="51.893800093209" lng="-0.89384953149411" personid="10040" mpname="John Bercow" party="Speaker" />
+<marker name="Burnley" lat="53.778933760983" lng="-2.2219475651699" personid="24793" mpname="Gordon Birtwistle" party="Liberal Democrat" />
+<marker name="Burton" lat="52.897494385548" lng="-1.8087396037042" personid="24826" mpname="Andrew Griffiths" party="Conservative" />
+<marker name="Bury North" lat="53.617943541841" lng="-2.3199256301762" personid="24877" mpname="David Nuttall" party="Conservative" />
+<marker name="Bury South" lat="53.556164516928" lng="-2.3047845352955" personid="10357" mpname="Ivan Lewis" party="Labour" />
+<marker name="Bury St Edmunds" lat="52.247719921097" lng="0.89461734801575" personid="10520" mpname="David Ruffley" party="Conservative" />
+<marker name="Caerphilly" lat="51.607856223129" lng="-3.2177696422046" personid="10842" mpname="Wayne David" party="Labour" />
+<marker name="Caithness, Sutherland and Easter Ross" lat="58.219625814012" lng="-4.2448504435711" personid="11280" mpname="John Thurso" party="Liberal Democrat" />
+<marker name="Calder Valley" lat="53.717883835167" lng="-1.9922306689922" personid="24944" mpname="Craig Whittaker" party="Conservative" />
+<marker name="Camberwell and Peckham" lat="51.470158155432" lng="-0.071078592159695" personid="10260" mpname="Harriet Harman" party="Labour" />
+<marker name="Camborne and Redruth" lat="50.188191580911" lng="-5.2392562972857" personid="24933" mpname="George Eustice" party="Conservative" />
+<marker name="Cambridge" lat="52.202107198538" lng="0.13109939693381" personid="24892" mpname="Julian Huppert" party="Liberal Democrat" />
+<marker name="Cannock Chase" lat="52.712401738514" lng="-1.9802171694756" personid="24844" mpname="Aidan Burley" party="Conservative" />
+<marker name="Canterbury" lat="51.268548314495" lng="1.0874923027466" personid="10065" mpname="Julian Brazier" party="Conservative" />
+<marker name="Cardiff Central" lat="51.504794886607" lng="-3.1633194955425" personid="11480" mpname="Jennifer Willott" party="Liberal Democrat" />
+<marker name="Cardiff North" lat="51.531874921889" lng="-3.1906760355159" personid="22650" mpname="Jonathan Evans" party="Conservative" />
+<marker name="Cardiff South and Penarth" lat="51.466960160697" lng="-3.1524424584242" personid="10431" mpname="Alun Michael" party="Labour" />
+<marker name="Cardiff West" lat="51.506100292319" lng="-3.2694652527417" personid="10753" mpname="Kevin Brennan" party="Labour" />
+<marker name="Carlisle" lat="54.867483768912" lng="-2.9506742354803" personid="24799" mpname="John Stevenson" party="Conservative" />
+<marker name="Carmarthen East and Dinefwr" lat="51.947351273745" lng="-4.0346205841216" personid="24743" mpname="Jonathan Edwards" party="Plaid Cymru" />
+<marker name="Carmarthen West and South Pembrokeshire" lat="51.798482479288" lng="-4.6319199181109" personid="24813" mpname="Simon Hart" party="Conservative" />
+<marker name="Carshalton and Wallington" lat="51.361414732526" lng="-0.15506125977321" personid="10063" mpname="Tom Brake" party="Liberal Democrat" />
+<marker name="Castle Point" lat="51.536578380136" lng="0.59403035428576" personid="24731" mpname="Rebecca Harris" party="Conservative" />
+<marker name="Central Ayrshire" lat="55.556231202539" lng="-4.5677385992566" personid="10173" mpname="Brian H Donohoe" party="Labour" />
+<marker name="Central Devon" lat="50.73993243094" lng="-3.7770203864116" personid="24914" mpname="Mel Stride" party="Conservative" />
+<marker name="Central Suffolk and North Ipswich" lat="52.221567022563" lng="1.2211240748776" personid="24756" mpname="Daniel Poulter" party="Conservative" />
+<marker name="Ceredigion" lat="52.255961904094" lng="-4.0721739898799" personid="11489" mpname="Mark Williams" party="Liberal Democrat" />
+<marker name="Charnwood" lat="52.698687150342" lng="-1.133201729411" personid="10175" mpname="Stephen Dorrell" party="Conservative" />
+<marker name="Chatham and Aylesford" lat="51.329796548762" lng="0.48375485557245" personid="24871" mpname="Tracey Crouch" party="Conservative" />
+<marker name="Cheadle" lat="53.370395913169" lng="-2.1847498017527" personid="12016" mpname="Mark Hunter" party="Liberal Democrat" />
+<marker name="Chelmsford" lat="51.724905431589" lng="0.48293003002402" personid="10079" mpname="Simon Burns" party="Conservative" />
+<marker name="Chelsea and Fulham" lat="51.479299281856" lng="-0.19051135789324" personid="11610" mpname="Greg Hands" party="Conservative" />
+<marker name="Cheltenham" lat="51.890905810332" lng="-2.0736477424457" personid="11494" mpname="Martin Horwood" party="Liberal Democrat" />
+<marker name="Chesham and Amersham" lat="51.680526530659" lng="-0.6277858690025" personid="10228" mpname="Cheryl Gillan" party="Conservative" />
+<marker name="Chesterfield" lat="53.24837757786" lng="-1.4169626847179" personid="24845" mpname="Toby Perkins" party="Labour" />
+<marker name="Chichester" lat="50.926742897833" lng="-0.77954018992857" personid="10613" mpname="Andrew Tyrie" party="Conservative" />
+<marker name="Chingford and Woodford Green" lat="51.617378463964" lng="0.0042991885955913" personid="10180" mpname="Iain Duncan Smith" party="Conservative" />
+<marker name="Chippenham" lat="51.387239798248" lng="-2.1818396258411" personid="24865" mpname="Duncan Hames" party="Liberal Democrat" />
+<marker name="Chipping Barnet" lat="51.638442911473" lng="-0.18989190110197" personid="11500" mpname="Theresa Villiers" party="Conservative" />
+<marker name="Chorley" lat="53.663092511757" lng="-2.6115206808722" personid="10295" mpname="Lindsay Hoyle" party="Labour" />
+<marker name="Christchurch" lat="50.790229250359" lng="-1.8304912172005" personid="10103" mpname="Christopher Chope" party="Conservative" />
+<marker name="Cities of London and Westminster" lat="51.507488279094" lng="-0.13866781998635" personid="10884" mpname="Mark Field" party="Conservative" />
+<marker name="City of Chester" lat="53.190329008408" lng="-2.907787736473" personid="24750" mpname="Stephen Mosley" party="Conservative" />
+<marker name="City of Durham" lat="54.764113516686" lng="-1.5659928529949" personid="11558" mpname="Roberta Blackman-Woods" party="Labour" />
+<marker name="Clacton" lat="51.833101262559" lng="1.1594338245221" personid="11621" mpname="Douglas Carswell" party="Conservative" />
+<marker name="Cleethorpes" lat="53.597783991645" lng="-0.24454056096165" personid="24814" mpname="Martin Vickers" party="Conservative" />
+<marker name="Clwyd South" lat="52.963941209444" lng="-3.1376113233819" personid="24720" mpname="Susan Elan Jones" party="Labour" />
+<marker name="Clwyd West" lat="53.121052434367" lng="-3.4925180086248" personid="11506" mpname="David Jones" party="Conservative" />
+<marker name="Coatbridge, Chryston and Bellshill" lat="55.88024231715" lng="-4.0662634033561" personid="10116" mpname="Tom Clarke" party="Labour" />
+<marker name="Colchester" lat="51.88818150848" lng="0.90006428391389" personid="10521" mpname="Bob Russell" party="Liberal Democrat" />
+<marker name="Colne Valley" lat="53.592410240646" lng="-1.8563474537856" personid="24887" mpname="Jason McCartney" party="Conservative" />
+<marker name="Congleton" lat="53.161442339582" lng="-2.3051673870365" personid="24857" mpname="Fiona Bruce" party="Conservative" />
+<marker name="Copeland" lat="54.47611505615" lng="-3.3221289633662" personid="11511" mpname="Jamie Reed" party="Labour" />
+<marker name="Corby" lat="52.474391860629" lng="-0.54522089083402" personid="24833" mpname="Louise Bagshawe" party="Conservative" />
+<marker name="Coventry North East" lat="52.426723554454" lng="-1.4676028061143" personid="10005" mpname="Bob Ainsworth" party="Labour" />
+<marker name="Coventry North West" lat="52.431301938528" lng="-1.5554081468833" personid="10506" mpname="Geoffrey Robinson" party="Labour" />
+<marker name="Coventry South" lat="52.391781802938" lng="-1.5211563165671" personid="10147" mpname="Jim Cunningham" party="Labour" />
+<marker name="Crawley" lat="51.125476921404" lng="-0.18203090836475" personid="24802" mpname="Henry Smith" party="Conservative" />
+<marker name="Crewe and Nantwich" lat="53.062619646275" lng="-2.4298106826357" personid="14128" mpname="Edward Timpson" party="Conservative" />
+<marker name="Croydon Central" lat="51.366760428619" lng="-0.049855936428665" personid="24863" mpname="Gavin Barwell" party="Conservative" />
+<marker name="Croydon North" lat="51.399251940551" lng="-0.10323493589105" personid="10633" mpname="Malcolm Wicks" party="Labour" />
+<marker name="Croydon South" lat="51.330719911288" lng="-0.10276389835691" personid="10468" mpname="Richard Ottaway" party="Conservative" />
+<marker name="Cumbernauld, Kilsyth and Kirkintilloch East" lat="55.975164740807" lng="-4.095273588889" personid="24733" mpname="Gregg McClymont" party="Labour" />
+<marker name="Cynon Valley" lat="51.717982035413" lng="-3.451589888347" personid="10120" mpname="Ann Clwyd" party="Labour" />
+<marker name="Dagenham and Rainham" lat="51.530881225485" lng="0.18315272637113" personid="10828" mpname="Jon Cruddas" party="Labour" />
+<marker name="Darlington" lat="54.532012199004" lng="-1.5566357832446" personid="24711" mpname="Jenny Chapman" party="Labour" />
+<marker name="Dartford" lat="51.421524169203" lng="0.26325689343011" personid="24803" mpname="Gareth Johnson" party="Conservative" />
+<marker name="Daventry" lat="52.307575607968" lng="-1.0316529040352" personid="24841" mpname="Chris Heaton-Harris" party="Conservative" />
+<marker name="Delyn" lat="53.242887424394" lng="-3.220762701209" personid="10259" mpname="David Hanson" party="Labour" />
+<marker name="Denton and Reddish" lat="53.453856686579" lng="-2.1275923503942" personid="11531" mpname="Andrew Gwynne" party="Labour" />
+<marker name="Derby North" lat="52.921814822211" lng="-1.4907944059256" personid="24830" mpname="Chris Williamson" party="Labour" />
+<marker name="Derby South" lat="52.892402621687" lng="-1.4609184636817" personid="10031" mpname="Margaret Beckett" party="Labour" />
+<marker name="Derbyshire Dales" lat="53.114951736408" lng="-1.6735354811793" personid="10397" mpname="Patrick McLoughlin" party="Conservative" />
+<marker name="Devizes" lat="51.347466413142" lng="-1.7772318530018" personid="24915" mpname="Claire Perry" party="Conservative" />
+<marker name="Dewsbury" lat="53.625937460874" lng="-1.6659762231792" personid="24858" mpname="Simon Reevell" party="Conservative" />
+<marker name="Don Valley" lat="53.503818770382" lng="-1.0535968038509" personid="10202" mpname="Caroline Flint" party="Labour" />
+<marker name="Doncaster Central" lat="53.535706486452" lng="-1.0868014384516" personid="10648" mpname="Rosie Winterton" party="Labour" />
+<marker name="Doncaster North" lat="53.585871324675" lng="-1.1388028537927" personid="11545" mpname="Edward Miliband" party="Labour" />
+<marker name="Dover" lat="51.178971384231" lng="1.2886911356376" personid="24777" mpname="Charlie Elphicke" party="Conservative" />
+<marker name="Dudley North" lat="52.522277149618" lng="-2.1066136065517" personid="11553" mpname="Ian Austin" party="Labour" />
+<marker name="Dudley South" lat="52.49227797615" lng="-2.1373560336498" personid="24838" mpname="Chris Kelly" party="Conservative" />
+<marker name="Dulwich and West Norwood" lat="51.444237546021" lng="-0.091555235516657" personid="10326" mpname="Tessa Jowell" party="Labour" />
+<marker name="Dumfries and Galloway" lat="54.987211819627" lng="-4.2785783554225" personid="10070" mpname="Russell Brown" party="Labour" />
+<marker name="Dumfriesshire, Clydesdale and Tweeddale" lat="55.364642922205" lng="-3.4576060233028" personid="11970" mpname="David Mundell" party="Conservative" />
+<marker name="Dundee East" lat="56.51181367876" lng="-2.8465921636628" personid="11973" mpname="Stewart Hosie" party="Scottish National Party" />
+<marker name="Dundee West" lat="56.505042307077" lng="-3.0629989623174" personid="11974" mpname="Jim McGovern" party="Labour" />
+<marker name="Dunfermline and West Fife" lat="56.08364494896" lng="-3.5232490523654" personid="24730" mpname="Thomas Docherty" party="Labour" />
+<marker name="Dwyfor Meirionnydd" lat="52.846192166631" lng="-4.0010686795259" personid="10368" mpname="Elfyn Llwyd" party="Plaid Cymru" />
+<marker name="Ealing Central and Acton" lat="51.515176297488" lng="-0.28291286813762" personid="24952" mpname="Angie Bray" party="Conservative" />
+<marker name="Ealing North" lat="51.53754973587" lng="-0.35079252020706" personid="10484" mpname="Stephen Pound" party="Labour" />
+<marker name="Ealing, Southall" lat="51.507129747778" lng="-0.35913323340142" personid="13934" mpname="Virendra Sharma" party="Labour" />
+<marker name="Easington" lat="54.776358583255" lng="-1.3556570861516" personid="24715" mpname="Grahame Morris" party="Labour" />
+<marker name="East Antrim" lat="54.832336" lng="-5.883179" personid="11374" mpname="Sammy Wilson" party="DUP" />
+<marker name="East Devon" lat="50.716258085613" lng="-3.3498854331393" personid="11265" mpname="Hugo Swire" party="Conservative" />
+<marker name="East Dunbartonshire" lat="55.935584565284" lng="-4.2739697750299" personid="11971" mpname="Jo Swinson" party="Liberal Democrat" />
+<marker name="East Ham" lat="51.523859873315" lng="0.057053127047556" personid="10596" mpname="Stephen Timms" party="Labour" />
+<marker name="East Hampshire" lat="51.091398549911" lng="-0.95172721740485" personid="24782" mpname="Damian Hinds" party="Conservative" />
+<marker name="East Kilbride, Strathaven and Lesmahagow" lat="55.664744201649" lng="-4.0743974425141" personid="24717" mpname="Michael McCann" party="Labour" />
+<marker name="East Londonderry" lat="54.980766" lng="-6.904907" personid="10780" mpname="Gregory Campbell" party="DUP" />
+<marker name="East Lothian" lat="55.941990206765" lng="-2.720861511925" personid="24723" mpname="Fiona O'Donnell" party="Labour" />
+<marker name="East Renfrewshire" lat="55.75300363723" lng="-4.3594080429548" personid="10453" mpname="Jim Murphy" party="Labour" />
+<marker name="East Surrey" lat="51.224847817236" lng="-0.048369153707403" personid="24789" mpname="Sam Gyimah" party="Conservative" />
+<marker name="East Worthing and Shoreham" lat="50.842489109527" lng="-0.31666051657991" personid="10371" mpname="Tim Loughton" party="Conservative" />
+<marker name="East Yorkshire" lat="53.992595489719" lng="-0.53233689936083" personid="11026" mpname="Greg Knight" party="Conservative" />
+<marker name="Eastbourne" lat="50.780674767" lng="0.25936272995721" personid="24754" mpname="Stephen Lloyd" party="Liberal Democrat" />
+<marker name="Eastleigh" lat="50.927950837639" lng="-1.3224027449345" personid="11565" mpname="Christopher Huhne" party="Liberal Democrat" />
+<marker name="Eddisbury" lat="53.107429017626" lng="-2.6561048551814" personid="10670" mpname="Stephen O'Brien" party="Conservative" />
+<marker name="Edinburgh East" lat="55.944403524792" lng="-3.1392311754153" personid="24763" mpname="Sheila Gilmore" party="Labour" />
+<marker name="Edinburgh North and Leith" lat="55.969710143918" lng="-3.2050465019259" personid="11038" mpname="Mark Lazarowicz" party="Labour" />
+<marker name="Edinburgh South" lat="55.912081270334" lng="-3.1723451572687" personid="24872" mpname="Ian Murray" party="Labour" />
+<marker name="Edinburgh South West" lat="55.884503451328" lng="-3.3150782571825" personid="10153" mpname="Alistair Darling" party="Labour" />
+<marker name="Edinburgh West" lat="55.953036766332" lng="-3.3509265722688" personid="24794" mpname="Michael Crockart" party="Liberal Democrat" />
+<marker name="Edmonton" lat="51.628921490569" lng="-0.053089035632267" personid="10372" mpname="Andrew Love" party="Labour" />
+<marker name="Ellesmere Port and Neston" lat="53.277574951599" lng="-2.9295916653302" personid="10435" mpname="Andrew Miller" party="Labour" />
+<marker name="Elmet and Rothwell" lat="53.835200345813" lng="-1.4018406064582" personid="24893" mpname="Alec Shelbrooke" party="Conservative" />
+<marker name="Eltham" lat="51.455704424663" lng="0.054894450774642" personid="10185" mpname="Clive Efford" party="Labour" />
+<marker name="Enfield North" lat="51.668618953589" lng="-0.079351046481043" personid="24859" mpname="Nick de Bois" party="Conservative" />
+<marker name="Enfield, Southgate" lat="51.642198456208" lng="-0.12578670612582" personid="11573" mpname="David Burrowes" party="Conservative" />
+<marker name="Epping Forest" lat="51.681568061945" lng="0.06307034999052" personid="10348" mpname="Eleanor Laing" party="Conservative" />
+<marker name="Epsom and Ewell" lat="51.330341400592" lng="-0.2666259611255" personid="10920" mpname="Chris Grayling" party="Conservative" />
+<marker name="Erewash" lat="52.921680931256" lng="-1.3085169010515" personid="24757" mpname="Jessica Lee" party="Conservative" />
+<marker name="Erith and Thamesmead" lat="51.492610104431" lng="0.13237702012952" personid="24956" mpname="Teresa Pearce" party="Labour" />
+<marker name="Esher and Walton" lat="51.356916484166" lng="-0.38072793174394" personid="24815" mpname="Dominic Raab" party="Conservative" />
+<marker name="Exeter" lat="50.726522792795" lng="-3.5190355268225" personid="10061" mpname="Ben Bradshaw" party="Labour" />
+<marker name="Falkirk" lat="56.016798507164" lng="-3.844674464285" personid="10685" mpname="Eric Joyce" party="Labour" />
+<marker name="Fareham" lat="50.857385117371" lng="-1.2273301026274" personid="10964" mpname="Mark Hoban" party="Conservative" />
+<marker name="Faversham and Mid Kent" lat="51.262675575081" lng="0.72298407131595" personid="11190" mpname="Hugh Robertson" party="Conservative" />
+<marker name="Feltham and Heston" lat="51.458727883437" lng="-0.40559540259209" personid="10329" mpname="Alan Keen" party="Labour" />
+<marker name="Fermanagh and South Tyrone" lat="54.354958" lng="-7.443237" personid="10913" mpname="Michelle Gildernew" party="Sinn Fein" />
+<marker name="Filton and Bradley Stoke" lat="51.539456263926" lng="-2.5961317518455" personid="24716" mpname="Jack Lopresti" party="Conservative" />
+<marker name="Finchley and Golders Green" lat="51.587933477829" lng="-0.18995390787843" personid="24934" mpname="Mike Freer" party="Conservative" />
+<marker name="Folkestone and Hythe" lat="51.0626939278" lng="0.98516282090679" personid="24744" mpname="Damian Collins" party="Conservative" />
+<marker name="Forest of Dean" lat="51.837133410371" lng="-2.4684122740047" personid="11588" mpname="Mark Harper" party="Conservative" />
+<marker name="Foyle" lat="54.933453" lng="-7.267456" personid="11589" mpname="Mark Durkan" party="Social Democratic and Labour Party" />
+<marker name="Fylde" lat="53.783376995058" lng="-2.9163990167743" personid="24804" mpname="Mark Menzies" party="Conservative" />
+<marker name="Gainsborough" lat="53.389054218722" lng="-0.46892036272244" personid="10352" mpname="Edward Leigh" party="Conservative" />
+<marker name="Garston and Halewood" lat="53.358702103276" lng="-2.8531312908275" personid="10183" mpname="Maria Eagle" party="Labour" />
+<marker name="Gateshead" lat="54.945845396994" lng="-1.5985700099067" personid="24919" mpname="Ian Mearns" party="Labour" />
+<marker name="Gedling" lat="52.984528457761" lng="-1.0876165371912" personid="10121" mpname="Vernon Coaker" party="Labour" />
+<marker name="Gillingham and Rainham" lat="51.375569022739" lng="0.59319840607056" personid="24920" mpname="Rehman Chishti" party="Conservative" />
+<marker name="Glasgow Central" lat="55.849975070918" lng="-4.2582287874757" personid="24738" mpname="Anas Sarwar" party="Labour" />
+<marker name="Glasgow East" lat="55.85621375846" lng="-4.1383996926698" personid="24734" mpname="Margaret Curran" party="Labour" />
+<marker name="Glasgow North" lat="55.89598001547" lng="-4.2884286954284" personid="11076" mpname="Ann McKechin" party="Labour" />
+<marker name="Glasgow North East" lat="55.88301201537" lng="-4.2163439525183" personid="24697" mpname="William Bain" party="Labour" />
+<marker name="Glasgow North West" lat="55.892606792945" lng="-4.3495388491271" personid="10684" mpname="John Robertson" party="Labour" />
+<marker name="Glasgow South" lat="55.815546410997" lng="-4.2716677696876" personid="10941" mpname="Tom Harris" party="Labour" />
+<marker name="Glasgow South West" lat="55.834521294994" lng="-4.3450531815939" personid="10157" mpname="Ian Davidson" party="Labour" />
+<marker name="Glenrothes" lat="56.184832613155" lng="-3.1592186524908" personid="14142" mpname="Lindsay Roy" party="Labour" />
+<marker name="Gloucester" lat="51.847222830623" lng="-2.2417669853707" personid="24921" mpname="Richard Graham" party="Conservative" />
+<marker name="Gordon" lat="57.343526784886" lng="-2.5043663899957" personid="10074" mpname="Malcolm Bruce" party="Liberal Democrat" />
+<marker name="Gosport" lat="50.811069768678" lng="-1.1739376663454" personid="24873" mpname="Caroline Dinenage" party="Conservative" />
+<marker name="Gower" lat="51.641855274628" lng="-4.0908981181865" personid="10096" mpname="Martin Caton" party="Labour" />
+<marker name="Grantham and Stamford" lat="52.816456605769" lng="-0.48014260693896" personid="24766" mpname="Nicholas Boles" party="Conservative" />
+<marker name="Gravesham" lat="51.405141931236" lng="0.39501115089111" personid="11599" mpname="Adam Holloway" party="Conservative" />
+<marker name="Great Grimsby" lat="53.561780359975" lng="-0.095129391041898" personid="10436" mpname="Austin Mitchell" party="Labour" />
+<marker name="Great Yarmouth" lat="52.640730509342" lng="1.6612396958709" personid="24879" mpname="Brandon Lewis" party="Conservative" />
+<marker name="Greenwich and Woolwich" lat="51.485391719452" lng="0.031505687729266" personid="10498" mpname="Nick Raynsford" party="Labour" />
+<marker name="Guildford" lat="51.189271219898" lng="-0.55626248580405" personid="11603" mpname="Anne Milton" party="Conservative" />
+<marker name="Hackney North and Stoke Newington" lat="51.562221978496" lng="-0.072344186453984" personid="10001" mpname="Diane Abbott" party="Labour" />
+<marker name="Hackney South and Shoreditch" lat="51.543229496622" lng="-0.055120759344325" personid="11605" mpname="Meg Hillier" party="Labour" />
+<marker name="Halesowen and Rowley Regis" lat="52.461732421274" lng="-2.0511937998358" personid="24855" mpname="James Morris" party="Conservative" />
+<marker name="Halifax" lat="53.738708158983" lng="-1.873902794989" personid="11607" mpname="Linda Riordan" party="Labour" />
+<marker name="Haltemprice and Howden" lat="53.770877630884" lng="-0.69495951783806" personid="10162" mpname="David Davis" party="Conservative" />
+<marker name="Halton" lat="53.34918803122" lng="-2.7484287282539" personid="10610" mpname="Derek Twigg" party="Labour" />
+<marker name="Hammersmith" lat="51.505087981726" lng="-0.23032827442305" personid="11559" mpname="Andy Slaughter" party="Labour" />
+<marker name="Hampstead and Kilburn" lat="51.547465312949" lng="-0.19185358875101" personid="10308" mpname="Glenda Jackson" party="Labour" />
+<marker name="Harborough" lat="52.520613456214" lng="-1.0145606468774" personid="10221" mpname="Edward Garnier" party="Conservative" />
+<marker name="Harlow" lat="51.766308165753" lng="0.11568485559051" personid="24784" mpname="Robert Halfon" party="Conservative" />
+<marker name="Harrogate and Knaresborough" lat="54.030314167235" lng="-1.476785676504" personid="24758" mpname="Andrew Jones" party="Conservative" />
+<marker name="Harrow East" lat="51.610852976448" lng="-0.31721779849578" personid="24945" mpname="Bob Blackman" party="Conservative" />
+<marker name="Harrow West" lat="51.578562321424" lng="-0.3530828644474" personid="10594" mpname="Gareth Thomas" party="Labour" />
+<marker name="Hartlepool" lat="54.669070423119" lng="-1.255605198145" personid="11362" mpname="Iain Wright" party="Labour" />
+<marker name="Harwich and North Essex" lat="51.892439560537" lng="0.98797170615179" personid="10312" mpname="Bernard Jenkin" party="Conservative" />
+<marker name="Hastings and Rye" lat="50.921244172714" lng="0.665128501466" personid="24795" mpname="Amber Rudd" party="Conservative" />
+<marker name="Havant" lat="50.832205581116" lng="-0.98547951632543" personid="10637" mpname="David Willetts" party="Conservative" />
+<marker name="Hayes and Harlington" lat="51.494861399877" lng="-0.44367585315548" personid="10383" mpname="John McDonnell" party="Labour" />
+<marker name="Hazel Grove" lat="53.39899193054" lng="-2.0715873942009" personid="10578" mpname="Andrew Stunell" party="Liberal Democrat" />
+<marker name="Hemel Hempstead" lat="51.785792745916" lng="-0.47976493056349" personid="11626" mpname="Michael Penning" party="Conservative" />
+<marker name="Hemsworth" lat="53.636187027049" lng="-1.3730225457704" personid="10604" mpname="Jon Trickett" party="Labour" />
+<marker name="Hendon" lat="51.609912894658" lng="-0.24555473941384" personid="24955" mpname="Matthew Offord" party="Conservative" />
+<marker name="Henley" lat="51.669699357323" lng="-1.0769324218735" personid="14131" mpname="John Howell" party="Conservative" />
+<marker name="Hereford and South Herefordshire" lat="51.975685952289" lng="-2.8107343230371" personid="24827" mpname="Jesse Norman" party="Conservative" />
+<marker name="Hertford and Stortford" lat="51.814846510112" lng="0.041306519779865" personid="11172" mpname="Mark Prisk" party="Conservative" />
+<marker name="Hertsmere" lat="51.677280791046" lng="-0.28109656472783" personid="10106" mpname="James Clappison" party="Conservative" />
+<marker name="Hexham" lat="55.05996974039" lng="-2.2401129281788" personid="24962" mpname="Guy Opperman" party="Conservative" />
+<marker name="Heywood and Middleton" lat="53.597426487955" lng="-2.2151225840329" personid="10170" mpname="Jim Dobbin" party="Labour" />
+<marker name="High Peak" lat="53.373066498814" lng="-1.8738891283294" personid="24748" mpname="Andrew Bingham" party="Conservative" />
+<marker name="Hitchin and Harpenden" lat="51.870578949939" lng="-0.321347675159" personid="10362" mpname="Peter Lilley" party="Conservative" />
+<marker name="Holborn and St Pancras" lat="51.542956766047" lng="-0.14148464089772" personid="10171" mpname="Frank Dobson" party="Labour" />
+<marker name="Hornchurch and Upminster" lat="51.570465716626" lng="0.25084554831956" personid="11308" mpname="Angela Watkinson" party="Conservative" />
+<marker name="Hornsey and Wood Green" lat="51.589764949632" lng="-0.13073187538498" personid="11641" mpname="Lynne Featherstone" party="Liberal Democrat" />
+<marker name="Horsham" lat="51.061988727079" lng="-0.29499841770128" personid="10423" mpname="Francis Maude" party="Conservative" />
+<marker name="Houghton and Sunderland South" lat="54.851738019936" lng="-1.4503667073232" personid="24709" mpname="Bridget Phillipson" party="Labour" />
+<marker name="Hove" lat="50.847990581115" lng="-0.19742808779751" personid="24889" mpname="Mike Weatherley" party="Conservative" />
+<marker name="Huddersfield" lat="53.652766578668" lng="-1.7592437993542" personid="10534" mpname="Barry Sheerman" party="Labour" />
+<marker name="Huntingdon" lat="52.283597124544" lng="-0.23227588416952" personid="10854" mpname="Jonathan Djanogly" party="Conservative" />
+<marker name="Hyndburn" lat="53.750098731569" lng="-2.3792348444463" personid="24835" mpname="Graham Jones" party="Labour" />
+<marker name="Ilford North" lat="51.596647633703" lng="0.087688668076089" personid="11651" mpname="Lee Scott" party="Conservative" />
+<marker name="Ilford South" lat="51.564854826069" lng="0.089901014653526" personid="10219" mpname="Mike Gapes" party="Labour" />
+<marker name="Inverclyde" lat="55.904403508121" lng="-4.7426941984689" personid="10775" mpname="David Cairns" party="Labour" />
+<marker name="Inverness, Nairn, Badenoch and Strathspey" lat="57.214592864811" lng="-4.1557955084763" personid="11995" mpname="Danny Alexander" party="Liberal Democrat" />
+<marker name="Ipswich" lat="52.050102821762" lng="1.1661830554239" personid="24922" mpname="Ben Gummer" party="Conservative" />
+<marker name="Isle of Wight" lat="50.675963408954" lng="-1.2962074421267" personid="11291" mpname="Andrew Turner" party="Conservative" />
+<marker name="Islington North" lat="51.559614702711" lng="-0.11434279460349" personid="10133" mpname="Jeremy Corbyn" party="Labour" />
+<marker name="Islington South and Finsbury" lat="51.537495927154" lng="-0.10620920068047" personid="11656" mpname="Emily Thornberry" party="Labour" />
+<marker name="Islwyn" lat="51.660340257457" lng="-3.1586780956592" personid="24721" mpname="Chris Evans" party="Labour" />
+<marker name="Jarrow" lat="54.955473877502" lng="-1.4776214136788" personid="10274" mpname="Stephen Hepburn" party="Labour" />
+<marker name="Keighley" lat="53.877426076475" lng="-1.9262986429899" personid="24923" mpname="Kris Hopkins" party="Conservative" />
+<marker name="Kenilworth and Southam" lat="52.263357665764" lng="-1.4568787614458" personid="11791" mpname="Jeremy Wright" party="Conservative" />
+<marker name="Kensington" lat="51.506675218412" lng="-0.19992374434482" personid="11660" mpname="Malcolm Rifkind" party="Conservative" />
+<marker name="Kettering" lat="52.42616229747" lng="-0.76549863482558" personid="11661" mpname="Philip Hollobone" party="Conservative" />
+<marker name="Kilmarnock and Loudoun" lat="55.582624010951" lng="-4.3039972009245" personid="24726" mpname="Cathy Jamieson" party="Labour" />
+<marker name="Kingston and Surbiton" lat="51.378045332769" lng="-0.2903547367519" personid="10155" mpname="Edward Davey" party="Liberal Democrat" />
+<marker name="Kingston upon Hull East" lat="53.759578052198" lng="-0.29240230082666" personid="24767" mpname="Karl Turner" party="Labour" />
+<marker name="Kingston upon Hull North" lat="53.781929849046" lng="-0.35176730208199" personid="11647" mpname="Diana Johnson" party="Labour" />
+<marker name="Kingston upon Hull West and Hessle" lat="53.733898894232" lng="-0.39288378272351" personid="10314" mpname="Alan Johnson" party="Labour" />
+<marker name="Kingswood" lat="51.452815468015" lng="-2.4738774843421" personid="24713" mpname="Chris Skidmore" party="Conservative" />
+<marker name="Kirkcaldy and Cowdenbeath" lat="56.102217536338" lng="-3.2795684248381" personid="10068" mpname="Gordon Brown" party="Labour" />
+<marker name="Knowsley" lat="53.449462938054" lng="-2.8516867671856" personid="10292" mpname="George Howarth" party="Labour" />
+<marker name="Lagan Valley" lat="54.441296" lng="-6.108398" personid="10172" mpname="Jeffrey M Donaldson" party="DUP" />
+<marker name="Lanark and Hamilton East" lat="55.730847643944" lng="-3.7943105989468" personid="10285" mpname="Jimmy Hood" party="Labour" />
+<marker name="Lancaster and Fleetwood" lat="53.994772704637" lng="-2.738403877077" personid="24967" mpname="Eric Ollerenshaw" party="Conservative" />
+<marker name="Leeds Central" lat="53.778310876175" lng="-1.5366729680561" personid="10669" mpname="Hilary Benn" party="Labour" />
+<marker name="Leeds East" lat="53.807463154353" lng="-1.4596620652674" personid="10450" mpname="George Mudie" party="Labour" />
+<marker name="Leeds North East" lat="53.848926870869" lng="-1.5361124406019" personid="10256" mpname="Fabian Hamilton" party="Labour" />
+<marker name="Leeds North West" lat="53.876609137426" lng="-1.6318338635198" personid="11672" mpname="Greg Mulholland" party="Liberal Democrat" />
+<marker name="Leeds West" lat="53.799979671552" lng="-1.6150893712736" personid="24851" mpname="Rachel Reeves" party="Labour" />
+<marker name="Leicester East" lat="52.646921361839" lng="-1.0865568273757" personid="10614" mpname="Keith Vaz" party="Labour" />
+<marker name="Leicester South" lat="52.612877023751" lng="-1.1282607892343" personid="11675" mpname="Peter Soulsby" party="Labour" />
+<marker name="Leicester West" lat="52.649012397586" lng="-1.1624637918471" personid="24816" mpname="Liz Kendall" party="Labour" />
+<marker name="Leigh" lat="53.491402436644" lng="-2.5133822153704" personid="10766" mpname="Andy Burnham" party="Labour" />
+<marker name="Lewes" lat="50.868649387501" lng="0.045564731289537" personid="10022" mpname="Norman Baker" party="Liberal Democrat" />
+<marker name="Lewisham East" lat="51.442143201555" lng="0.0015110020199503" personid="24953" mpname="Heidi Alexander" party="Labour" />
+<marker name="Lewisham West and Penge" lat="51.42311180798" lng="-0.048330049679775" personid="10176" mpname="Jim Dowd" party="Labour" />
+<marker name="Lewisham, Deptford" lat="51.466672718253" lng="-0.031278557164179" personid="10519" mpname="Joan Ruddock" party="Labour" />
+<marker name="Leyton and Wanstead" lat="51.568485425511" lng="0.013357649394171" personid="10143" mpname="John Cryer" party="Labour" />
+<marker name="Lichfield" lat="52.757942664159" lng="-1.833638100251" personid="10193" mpname="Michael Fabricant" party="Conservative" />
+<marker name="Lincoln" lat="53.216417032103" lng="-0.56212926764385" personid="24790" mpname="Karl McCartney" party="Conservative" />
+<marker name="Linlithgow and East Falkirk" lat="55.945905004249" lng="-3.6741106340741" personid="10128" mpname="Michael Connarty" party="Labour" />
+<marker name="Liverpool, Riverside" lat="53.39426634061" lng="-2.9674176225744" personid="10186" mpname="Louise Ellman" party="Labour" />
+<marker name="Liverpool, Walton" lat="53.44631669177" lng="-2.9484348713989" personid="24935" mpname="Steve Rotheram" party="Labour" />
+<marker name="Liverpool, Wavertree" lat="53.399597466707" lng="-2.9168601431889" personid="24924" mpname="Luciana Berger" party="Labour" />
+<marker name="Liverpool, West Derby" lat="53.435949327438" lng="-2.9015144000473" personid="10611" mpname="Stephen Twigg" party="Labour" />
+<marker name="Livingston" lat="55.86145740911" lng="-3.5359321001293" personid="24735" mpname="Graeme Morrice" party="Labour" />
+<marker name="Llanelli" lat="51.720889602561" lng="-4.1907545963622" personid="11692" mpname="Nia Griffith" party="Labour" />
+<marker name="Loughborough" lat="52.77132718103" lng="-1.1774490970584" personid="24732" mpname="Nicky Morgan" party="Conservative" />
+<marker name="Louth and Horncastle" lat="53.290824196169" lng="0.0076579401403007" personid="10583" mpname="Peter Tapsell" party="Conservative" />
+<marker name="Ludlow" lat="52.479850270092" lng="-2.7209790234893" personid="11696" mpname="Philip Dunne" party="Conservative" />
+<marker name="Luton North" lat="51.906986155979" lng="-0.45337864290314" personid="10288" mpname="Kelvin Hopkins" party="Labour" />
+<marker name="Luton South" lat="51.870665710679" lng="-0.41227990716886" personid="24847" mpname="Gavin Shuker" party="Labour" />
+<marker name="Macclesfield" lat="53.261735233482" lng="-2.1197266743164" personid="24820" mpname="David Rutley" party="Conservative" />
+<marker name="Maidenhead" lat="51.500185490611" lng="-0.79234445238027" personid="10426" mpname="Theresa May" party="Conservative" />
+<marker name="Maidstone and The Weald" lat="51.167918060945" lng="0.51547759831407" personid="24796" mpname="Helen Grant" party="Conservative" />
+<marker name="Makerfield" lat="53.51688260102" lng="-2.6311818722029" personid="24805" mpname="Yvonne Fovargue" party="Labour" />
+<marker name="Maldon" lat="51.680810225094" lng="0.71129662783594" personid="10632" mpname="John Whittingdale" party="Conservative" />
+<marker name="Manchester Central" lat="53.481842631119" lng="-2.2079536273839" personid="10367" mpname="Tony Lloyd" party="Labour" />
+<marker name="Manchester, Gorton" lat="53.451835063076" lng="-2.2033100372403" personid="10327" mpname="Gerald Kaufman" party="Labour" />
+<marker name="Manchester, Withington" lat="53.427157433435" lng="-2.2431139141488" personid="11707" mpname="John Leech" party="Liberal Democrat" />
+<marker name="Mansfield" lat="53.170731312494" lng="-1.1727696135349" personid="10428" mpname="Alan Meale" party="Labour" />
+<marker name="Meon Valley" lat="50.959759708784" lng="-1.1348238690381" personid="24936" mpname="George Hollingbery" party="Conservative" />
+<marker name="Meriden" lat="52.411639282119" lng="-1.7113427808714" personid="10559" mpname="Caroline Spelman" party="Conservative" />
+<marker name="Merthyr Tydfil and Rhymney" lat="51.740368186514" lng="-3.3350298064504" personid="10944" mpname="Dai Havard" party="Labour" />
+<marker name="Mid Bedfordshire" lat="52.029945310729" lng="-0.48566005101042" personid="11397" mpname="Nadine Dorries" party="Conservative" />
+<marker name="Mid Derbyshire" lat="52.96477267768" lng="-1.4272545741405" personid="24821" mpname="Pauline Latham" party="Conservative" />
+<marker name="Mid Dorset and North Poole" lat="50.749068316869" lng="-2.089477116345" personid="10754" mpname="Annette Brooke" party="Liberal Democrat" />
+<marker name="Mid Norfolk" lat="52.649209982638" lng="0.93010095675522" personid="24817" mpname="George Freeman" party="Conservative" />
+<marker name="Mid Sussex" lat="51.0260050431" lng="-0.11032477174259" personid="10555" mpname="Nicholas Soames" party="Conservative" />
+<marker name="Mid Ulster" lat="54.721447" lng="-6.795044" personid="10387" mpname="Martin McGuinness" party="Sinn Fein" />
+<marker name="Mid Worcestershire" lat="52.182580026692" lng="-2.0575055450708" personid="10373" mpname="Peter Luff" party="Conservative" />
+<marker name="Middlesbrough" lat="54.558354884443" lng="-1.2348687201738" personid="10036" mpname="Stuart Bell" party="Labour" />
+<marker name="Middlesbrough South and East Cleveland" lat="54.535553173954" lng="-1.0104198190604" personid="24848" mpname="Tom Blenkinsop" party="Labour" />
+<marker name="Midlothian" lat="55.832214506369" lng="-3.110383721022" personid="10934" mpname="David Hamilton" party="Labour" />
+<marker name="Milton Keynes North" lat="52.108235512047" lng="-0.72900603276522" personid="11715" mpname="Mark Lancaster" party="Conservative" />
+<marker name="Milton Keynes South" lat="52.013842249336" lng="-0.74647178467513" personid="24947" mpname="Iain Stewart" party="Conservative" />
+<marker name="Mitcham and Morden" lat="51.400972257888" lng="-0.1713876521373" personid="10381" mpname="Siobhain McDonagh" party="Labour" />
+<marker name="Mole Valley" lat="51.22265837655" lng="-0.37285121083487" personid="10041" mpname="Paul Beresford" party="Conservative" />
+<marker name="Monmouth" lat="51.769446393475" lng="-2.8743004356378" personid="11719" mpname="David Davies" party="Conservative" />
+<marker name="Montgomeryshire" lat="52.626630348873" lng="-3.422687294822" personid="24739" mpname="Glyn Davies" party="Conservative" />
+<marker name="Moray" lat="57.475921118404" lng="-3.2671790034108" personid="11189" mpname="Angus Robertson" party="Scottish National Party" />
+<marker name="Morecambe and Lunesdale" lat="54.114985289622" lng="-2.7504366044472" personid="24966" mpname="David Morris" party="Conservative" />
+<marker name="Morley and Outwood" lat="53.72780419202" lng="-1.553483123719" personid="11740" mpname="Edward Balls" party="Labour" />
+<marker name="Motherwell and Wishaw" lat="55.787568070206" lng="-3.9546685776649" personid="10517" mpname="Frank Roy" party="Labour" />
+<marker name="Na h-Eileanan an Iar" lat="57.911314673734" lng="-6.8676954441953" personid="12004" mpname="Angus MacNeil" party="Scottish National Party" />
+<marker name="Neath" lat="51.723760035038" lng="-3.7556488586681" personid="10252" mpname="Peter Hain" party="Labour" />
+<marker name="New Forest East" lat="50.851354047066" lng="-1.5218145083246" personid="10358" mpname="Julian Lewis" party="Conservative" />
+<marker name="New Forest West" lat="50.866509089613" lng="-1.7434740256072" personid="10580" mpname="Desmond Swayne" party="Conservative" />
+<marker name="Newark" lat="53.126092829927" lng="-0.86647647209855" personid="11109" mpname="Patrick Mercer" party="Conservative" />
+<marker name="Newbury" lat="51.454743995261" lng="-1.3465882401174" personid="11727" mpname="Richard Benyon" party="Conservative" />
+<marker name="Newcastle upon Tyne Central" lat="54.983456471256" lng="-1.6497531549029" personid="24807" mpname="Chi Onwurah" party="Labour" />
+<marker name="Newcastle upon Tyne East" lat="54.983863211039" lng="-1.5746964533613" personid="10069" mpname="Nick Brown" party="Labour" />
+<marker name="Newcastle upon Tyne North" lat="55.02263725248" lng="-1.6837408439465" personid="24818" mpname="Catherine McKinnell" party="Labour" />
+<marker name="Newcastle-under-Lyme" lat="53.031895029857" lng="-2.2855672230129" personid="10882" mpname="Paul Farrelly" party="Labour" />
+<marker name="Newport East" lat="51.574354266362" lng="-2.8590960613307" personid="11732" mpname="Jessica Morden" party="Labour" />
+<marker name="Newport West" lat="51.569736050319" lng="-3.030123787534" personid="10203" mpname="Paul Flynn" party="Labour" />
+<marker name="Newry and Armagh" lat="54.297295" lng="-6.61377" personid="11734" mpname="Conor Murphy" party="Sinn Fein" />
+<marker name="Newton Abbot" lat="50.550774299282" lng="-3.5743340752984" personid="24912" mpname="Anne-Marie Morris" party="Conservative" />
+<marker name="Normanton, Pontefract and Castleford" lat="53.698262133603" lng="-1.331153052213" personid="10131" mpname="Yvette Cooper" party="Labour" />
+<marker name="North Antrim" lat="54.993374" lng="-6.328125" personid="13852" mpname="Ian Paisley Jnr" party="DUP" />
+<marker name="North Ayrshire and Arran" lat="55.652659403677" lng="-5.0089252704312" personid="11963" mpname="Katy Clark" party="Labour" />
+<marker name="North Cornwall" lat="50.626107974541" lng="-4.6121793193996" personid="11513" mpname="Dan Rogerson" party="Liberal Democrat" />
+<marker name="North Devon" lat="51.069863178031" lng="-3.9148530545302" personid="10262" mpname="Nick Harvey" party="Liberal Democrat" />
+<marker name="North Dorset" lat="50.902750316122" lng="-2.1638094850706" personid="10620" mpname="Robert Walter" party="Conservative" />
+<marker name="North Down" lat="54.651592" lng="-5.718384" personid="10958" mpname="Lady Hermon" party="Independent" />
+<marker name="North Durham" lat="54.859739311445" lng="-1.6324270801939" personid="11003" mpname="Kevan Jones" party="Labour" />
+<marker name="North East Bedfordshire" lat="52.173678835704" lng="-0.39689410849852" personid="10770" mpname="Alistair Burt" party="Conservative" />
+<marker name="North East Cambridgeshire" lat="52.533820660327" lng="0.1032420223767" personid="24916" mpname="Stephen Barclay" party="Conservative" />
+<marker name="North East Derbyshire" lat="53.246495879293" lng="-1.4592198435992" personid="11534" mpname="Natascha Engel" party="Labour" />
+<marker name="North East Fife" lat="56.306441949002" lng="-2.9670694943119" personid="10088" mpname="Menzies Campbell" party="Liberal Democrat" />
+<marker name="North East Hampshire" lat="51.271027712636" lng="-0.99298316198572" personid="10013" mpname="James Arbuthnot" party="Conservative" />
+<marker name="North East Hertfordshire" lat="51.933994041511" lng="-0.057053048272787" personid="10267" mpname="Oliver Heald" party="Conservative" />
+<marker name="North East Somerset" lat="51.353811120976" lng="-2.4848532117263" personid="24926" mpname="Jacob Rees-Mogg" party="Conservative" />
+<marker name="North Herefordshire" lat="52.167092337402" lng="-2.7126201910291" personid="11318" mpname="Bill Wiggin" party="Conservative" />
+<marker name="North Norfolk" lat="52.852271925435" lng="1.2560281866736" personid="11032" mpname="Norman Lamb" party="Liberal Democrat" />
+<marker name="North Shropshire" lat="52.866569083947" lng="-2.771940422323" personid="10473" mpname="Owen Paterson" party="Conservative" />
+<marker name="North Somerset" lat="51.420326503247" lng="-2.7461321252701" personid="10213" mpname="Liam Fox" party="Conservative" />
+<marker name="North Swindon" lat="51.615995923449" lng="-1.7508948567176" personid="24870" mpname="Justin Tomlinson" party="Conservative" />
+<marker name="North Thanet" lat="51.351450251156" lng="1.2452424177416" personid="10217" mpname="Roger Gale" party="Conservative" />
+<marker name="North Tyneside" lat="55.021921895625" lng="-1.5506460058174" personid="24927" mpname="Mary Glindon" party="Labour" />
+<marker name="North Warwickshire" lat="52.544861977759" lng="-1.6270003793523" personid="24849" mpname="Dan Byles" party="Conservative" />
+<marker name="North West Cambridgeshire" lat="52.465074374983" lng="-0.2447078177427" personid="11475" mpname="Shailesh Vara" party="Conservative" />
+<marker name="North West Durham" lat="54.772905206276" lng="-1.9510351440476" personid="24917" mpname="Pat Glass" party="Labour" />
+<marker name="North West Hampshire" lat="51.263783133072" lng="-1.3739134605152" personid="10659" mpname="George Young" party="Conservative" />
+<marker name="North West Leicestershire" lat="52.753150983424" lng="-1.4050097269544" personid="24741" mpname="Andrew Bridgen" party="Conservative" />
+<marker name="North West Norfolk" lat="52.827209576404" lng="0.53428250552316" personid="10726" mpname="Henry Bellingham" party="Conservative" />
+<marker name="North Wiltshire" lat="51.532620571627" lng="-2.0441062216102" personid="10240" mpname="James Gray" party="Conservative" />
+<marker name="Northampton North" lat="52.264552058396" lng="-0.86974084808103" personid="24866" mpname="Michael Ellis" party="Conservative" />
+<marker name="Northampton South" lat="52.243731427334" lng="-0.88685954425835" personid="11742" mpname="Brian Binley" party="Conservative" />
+<marker name="Norwich North" lat="52.653224770467" lng="1.3111117844805" personid="24691" mpname="Chloe Smith" party="Conservative" />
+<marker name="Norwich South" lat="52.624493878169" lng="1.2750674248193" personid="24874" mpname="Simon Wright" party="Liberal Democrat" />
+<marker name="Nottingham East" lat="52.966839544987" lng="-1.1373073802977" personid="10354" mpname="Christopher Leslie" party="Labour" />
+<marker name="Nottingham North" lat="52.989263011582" lng="-1.1975145643892" personid="10008" mpname="Graham Allen" party="Labour" />
+<marker name="Nottingham South" lat="52.936442261138" lng="-1.1840004793979" personid="24774" mpname="Lilian Greenwood" party="Labour" />
+<marker name="Nuneaton" lat="52.523116772803" lng="-1.518447764817" personid="24745" mpname="Marcus Jones" party="Conservative" />
+<marker name="Ochil and South Perthshire" lat="56.315572016408" lng="-3.7191150246049" personid="12005" mpname="Gordon Banks" party="Labour" />
+<marker name="Ogmore" lat="51.575371102485" lng="-3.5539652629104" personid="11347" mpname="Huw Irranca-Davies" party="Labour" />
+<marker name="Old Bexley and Sidcup" lat="51.437704690058" lng="0.11854113283173" personid="11640" mpname="James Brokenshire" party="Conservative" />
+<marker name="Oldham East and Saddleworth" lat="53.557321390042" lng="-2.0189166932627" personid="10652" mpname="Phil Woolas" party="Labour" />
+<marker name="Oldham West and Royton" lat="53.54427140456" lng="-2.1354721708377" personid="10427" mpname="Michael Meacher" party="Labour" />
+<marker name="Orkney and Shetland" lat="59.868227214418" lng="-1.9412511650913" personid="10785" mpname="Alistair Carmichael" party="Liberal Democrat" />
+<marker name="Orpington" lat="51.349718953359" lng="0.080053181275412" personid="24895" mpname="Jo Johnson" party="Conservative" />
+<marker name="Oxford East" lat="51.746268786754" lng="-1.2234883791752" personid="10545" mpname="Andrew Smith" party="Labour" />
+<marker name="Oxford West and Abingdon" lat="51.746557743978" lng="-1.2992422560175" personid="24842" mpname="Nicola Blackwood" party="Conservative" />
+<marker name="Paisley and Renfrewshire North" lat="55.882565011133" lng="-4.5076516948989" personid="11221" mpname="Jim Sheridan" party="Labour" />
+<marker name="Paisley and Renfrewshire South" lat="55.814725785637" lng="-4.5756745313887" personid="10661" mpname="Douglas Alexander" party="Labour" />
+<marker name="Pendle" lat="53.865503304443" lng="-2.1849251911817" personid="24759" mpname="Andrew Stephenson" party="Conservative" />
+<marker name="Penistone and Stocksbridge" lat="53.497989154134" lng="-1.6231976610676" personid="11814" mpname="Angela Smith" party="Labour" />
+<marker name="Penrith and The Border" lat="54.723356128472" lng="-2.6824101540026" personid="24964" mpname="Rory Stewart" party="Conservative" />
+<marker name="Perth and North Perthshire" lat="56.659057468035" lng="-3.8611672842348" personid="11333" mpname="Pete Wishart" party="Scottish National Party" />
+<marker name="Peterborough" lat="52.61745688997" lng="-0.16066479968714" personid="11759" mpname="Stewart Jackson" party="Conservative" />
+<marker name="Plymouth, Moor View" lat="50.4133251862" lng="-4.1415423186134" personid="11760" mpname="Alison Seabeck" party="Labour" />
+<marker name="Plymouth, Sutton and Devonport" lat="50.380014134764" lng="-4.1409489555469" personid="24898" mpname="Oliver Colvile" party="Conservative" />
+<marker name="Pontypridd" lat="51.568241335094" lng="-3.3552508597425" personid="24797" mpname="Owen Smith" party="Labour" />
+<marker name="Poole" lat="50.720677132902" lng="-1.9690380594045" personid="10582" mpname="Robert Syms" party="Conservative" />
+<marker name="Poplar and Limehouse" lat="51.507630800516" lng="-0.024893071603173" personid="10199" mpname="Jim Fitzpatrick" party="Labour" />
+<marker name="Portsmouth North" lat="50.830484504973" lng="-1.0777688334007" personid="24938" mpname="Penny Mordaunt" party="Conservative" />
+<marker name="Portsmouth South" lat="50.794991209415" lng="-1.0801694921983" personid="10258" mpname="Mike Hancock" party="Liberal Democrat" />
+<marker name="Preseli Pembrokeshire" lat="51.904913473728" lng="-4.9091471242327" personid="11768" mpname="Stephen Crabb" party="Conservative" />
+<marker name="Preston" lat="53.769305696153" lng="-2.6919334355248" personid="10682" mpname="Mark Hendrick" party="Labour" />
+<marker name="Pudsey" lat="53.839817335004" lng="-1.6918212788472" personid="24864" mpname="Stuart Andrew" party="Conservative" />
+<marker name="Putney" lat="51.452644882093" lng="-0.22442002289922" personid="11771" mpname="Justine Greening" party="Conservative" />
+<marker name="Rayleigh and Wickford" lat="51.607213585395" lng="0.68016524333104" personid="10901" mpname="Mark Francois" party="Conservative" />
+<marker name="Reading East" lat="51.458481285898" lng="-0.94842793008179" personid="11773" mpname="Rob Wilson" party="Conservative" />
+<marker name="Reading West" lat="51.455515765626" lng="-1.0441232209982" personid="24902" mpname="Alok Sharma" party="Conservative" />
+<marker name="Redcar" lat="54.589758709233" lng="-1.1081639616352" personid="24819" mpname="Ian Swales" party="Liberal Democrat" />
+<marker name="Redditch" lat="52.242407798158" lng="-1.9849134129934" personid="24856" mpname="Karen Lumley" party="Conservative" />
+<marker name="Reigate" lat="51.257529072685" lng="-0.19335214092527" personid="10051" mpname="Crispin Blunt" party="Conservative" />
+<marker name="Rhondda" lat="51.652543933601" lng="-3.4879284751289" personid="10761" mpname="Chris Bryant" party="Labour" />
+<marker name="Ribble Valley" lat="53.894747852262" lng="-2.4595903984294" personid="10190" mpname="Nigel Evans" party="Conservative" />
+<marker name="Richmond (Yorks)" lat="54.365997411317" lng="-1.7276502476535" personid="10251" mpname="William Hague" party="Conservative" />
+<marker name="Richmond Park" lat="51.44769533141" lng="-0.27885967834958" personid="24911" mpname="Zac Goldsmith" party="Conservative" />
+<marker name="Rochdale" lat="53.632793100103" lng="-2.1092711819403" personid="24808" mpname="Simon Danczuk" party="Labour" />
+<marker name="Rochester and Strood" lat="51.440387485054" lng="0.56677796616704" personid="24899" mpname="Mark Reckless" party="Conservative" />
+<marker name="Rochford and Southend East" lat="51.57004860889" lng="0.85659403427131" personid="11785" mpname="James Duddridge" party="Conservative" />
+<marker name="Romford" lat="51.591186136304" lng="0.18039869822115" personid="11199" mpname="Andrew Rosindell" party="Conservative" />
+<marker name="Romsey and Southampton North" lat="51.072333927839" lng="-1.4994476875978" personid="24809" mpname="Caroline Nokes" party="Conservative" />
+<marker name="Ross, Skye and Lochaber" lat="57.269094122886" lng="-5.359396543115" personid="10334" mpname="Charles Kennedy" party="Liberal Democrat" />
+<marker name="Rossendale and Darwen" lat="53.682174543169" lng="-2.345486785989" personid="24860" mpname="Jake Berry" party="Conservative" />
+<marker name="Rother Valley" lat="53.373444515607" lng="-1.2395944059155" personid="10027" mpname="Kevin Barron" party="Labour" />
+<marker name="Rotherham" lat="53.431788533707" lng="-1.3684823360735" personid="10401" mpname="Denis MacShane" party="Labour" />
+<marker name="Rugby" lat="52.423895395493" lng="-1.3346869380256" personid="24880" mpname="Mark Pawsey" party="Conservative" />
+<marker name="Ruislip, Northwood and Pinner" lat="51.593060789655" lng="-0.43820892596409" personid="11792" mpname="Nick Hurd" party="Conservative" />
+<marker name="Runnymede and Weybridge" lat="51.387819460145" lng="-0.52603740928933" personid="10257" mpname="Philip Hammond" party="Conservative" />
+<marker name="Rushcliffe" lat="52.879199431362" lng="-1.0822114437281" personid="10115" mpname="Kenneth Clarke" party="Conservative" />
+<marker name="Rutherglen and Hamilton West" lat="55.795924950536" lng="-4.1319017067947" personid="24714" mpname="Tom Greatrex" party="Labour" />
+<marker name="Rutland and Melton" lat="52.706201993782" lng="-0.79263396434745" personid="10179" mpname="Alan Duncan" party="Conservative" />
+<marker name="Saffron Walden" lat="51.903599000952" lng="0.31029198789501" personid="10263" mpname="Alan Haselhurst" party="Conservative" />
+<marker name="Salford and Eccles" lat="53.49928124413" lng="-2.3129747025488" personid="10048" mpname="Hazel Blears" party="Labour" />
+<marker name="Salisbury" lat="51.09103593563" lng="-1.8142852689684" personid="24839" mpname="John Glen" party="Conservative" />
+<marker name="Scarborough and Whitby" lat="54.386460025165" lng="-0.66858496242377" personid="11804" mpname="Robert Goodwill" party="Conservative" />
+<marker name="Scunthorpe" lat="53.528744682658" lng="-0.58906894283775" personid="24798" mpname="Nicholas Dakin" party="Labour" />
+<marker name="Sedgefield" lat="54.612093886841" lng="-1.5096829921537" personid="13933" mpname="Phil Wilson" party="Labour" />
+<marker name="Sefton Central" lat="53.526002385773" lng="-3.0200083450183" personid="24905" mpname="Bill Esterson" party="Labour" />
+<marker name="Selby and Ainsty" lat="53.84144816362" lng="-1.200019630782" personid="24878" mpname="Nigel Adams" party="Conservative" />
+<marker name="Sevenoaks" lat="51.310226989564" lng="0.18178705330937" personid="10194" mpname="Michael Fallon" party="Conservative" />
+<marker name="Sheffield Central" lat="53.376261464401" lng="-1.4738885031782" personid="24943" mpname="Paul Blomfield" party="Labour" />
+<marker name="Sheffield South East" lat="53.363942751953" lng="-1.3850743111998" personid="10045" mpname="Clive Betts" party="Labour" />
+<marker name="Sheffield, Brightside and Hillsborough" lat="53.415642282583" lng="-1.4671105753652" personid="10050" mpname="David Blunkett" party="Labour" />
+<marker name="Sheffield, Hallam" lat="53.381932957246" lng="-1.5897877470026" personid="11812" mpname="Nicholas Clegg" party="Liberal Democrat" />
+<marker name="Sheffield, Heeley" lat="53.345723313092" lng="-1.4571624614896" personid="11128" mpname="Meg Munn" party="Labour" />
+<marker name="Sherwood" lat="53.117554115126" lng="-1.0808497781548" personid="24909" mpname="Mark Spencer" party="Conservative" />
+<marker name="Shipley" lat="53.850232267472" lng="-1.8231100038813" personid="11816" mpname="Philip Davies" party="Conservative" />
+<marker name="Shrewsbury and Atcham" lat="52.669235507481" lng="-2.7801821820906" personid="11817" mpname="Daniel Kawczynski" party="Conservative" />
+<marker name="Sittingbourne and Sheppey" lat="51.367799235432" lng="0.77657115493328" personid="24828" mpname="Gordon Henderson" party="Conservative" />
+<marker name="Skipton and Ripon" lat="54.087804880893" lng="-1.9575832146792" personid="24961" mpname="Julian Smith" party="Conservative" />
+<marker name="Sleaford and North Hykeham" lat="53.059555564087" lng="-0.48665021906" personid="24836" mpname="Stephen Phillips" party="Conservative" />
+<marker name="Slough" lat="51.513409300947" lng="-0.60080661027639" personid="10402" mpname="Fiona Mactaggart" party="Labour" />
+<marker name="Solihull" lat="52.419729378114" lng="-1.7971192596823" personid="11823" mpname="Lorely Burt" party="Liberal Democrat" />
+<marker name="Somerton and Frome" lat="51.101762264329" lng="-2.55468656856" personid="10269" mpname="David Heath" party="Liberal Democrat" />
+<marker name="South Antrim" lat="54.699234" lng="-6.102905" personid="10679" mpname="William McCrea" party="DUP" />
+<marker name="South Basildon and East Thurrock" lat="51.527970399365" lng="0.43765069884572" personid="24749" mpname="Stephen Metcalfe" party="Conservative" />
+<marker name="South Cambridgeshire" lat="52.164201900372" lng="0.01222670304261" personid="10349" mpname="Andrew Lansley" party="Conservative" />
+<marker name="South Derbyshire" lat="52.831040082356" lng="-1.5595340018782" personid="24769" mpname="Heather Wheeler" party="Conservative" />
+<marker name="South Dorset" lat="50.654647107845" lng="-2.1926424799227" personid="24903" mpname="Richard Drax" party="Conservative" />
+<marker name="South Down" lat="54.21386" lng="-6.152344" personid="13856" mpname="Margaret Ritchie" party="Social Democratic and Labour Party" />
+<marker name="South East Cambridgeshire" lat="52.263502318864" lng="0.28853312031192" personid="10470" mpname="James Paice" party="Conservative" />
+<marker name="South East Cornwall" lat="50.437039982341" lng="-4.448104471034" personid="24875" mpname="Sheryll Murray" party="Conservative" />
+<marker name="South Holland and The Deepings" lat="52.793848473665" lng="-0.040163583886922" personid="10265" mpname="John Hayes" party="Conservative" />
+<marker name="South Leicestershire" lat="52.514643663471" lng="-1.1977067949222" personid="10503" mpname="Andrew Robathan" party="Conservative" />
+<marker name="South Norfolk" lat="52.504988043674" lng="1.3063019146553" personid="10707" mpname="Richard Bacon" party="Conservative" />
+<marker name="South Northamptonshire" lat="52.119375415131" lng="-1.0413831170352" personid="24829" mpname="Andrea Leadsom" party="Conservative" />
+<marker name="South Ribble" lat="53.690847576933" lng="-2.8417588235491" personid="24801" mpname="Lorraine Fullbrook" party="Conservative" />
+<marker name="South Shields" lat="54.973746593974" lng="-1.4086288017307" personid="11113" mpname="David Miliband" party="Labour" />
+<marker name="South Staffordshire" lat="52.579143041377" lng="-2.1805646515318" personid="24729" mpname="Gavin Williamson" party="Conservative" />
+<marker name="South Suffolk" lat="52.056574907011" lng="0.88874471200914" personid="10658" mpname="Tim Yeo" party="Conservative" />
+<marker name="South Swindon" lat="51.533313244024" lng="-1.737723518597" personid="24843" mpname="Robert Buckland" party="Conservative" />
+<marker name="South Thanet" lat="51.297951971685" lng="1.3187346592415" personid="24792" mpname="Laura Sandys" party="Conservative" />
+<marker name="South West Bedfordshire" lat="51.895913966748" lng="-0.57707205161969" personid="11216" mpname="Andrew Selous" party="Conservative" />
+<marker name="South West Devon" lat="50.382421151464" lng="-3.9736174061966" personid="10575" mpname="Gary Streeter" party="Conservative" />
+<marker name="South West Hertfordshire" lat="51.725132712541" lng="-0.55305608269178" personid="11633" mpname="David Gauke" party="Conservative" />
+<marker name="South West Norfolk" lat="52.553632559726" lng="0.58062966737232" personid="24941" mpname="Elizabeth Truss" party="Conservative" />
+<marker name="South West Surrey" lat="51.152352209146" lng="-0.68371072797521" personid="11859" mpname="Jeremy Hunt" party="Conservative" />
+<marker name="South West Wiltshire" lat="51.149647987839" lng="-2.1349935105916" personid="11132" mpname="Andrew Murrison" party="Conservative" />
+<marker name="Southampton, Itchen" lat="50.904033819547" lng="-1.3701943228086" personid="10167" mpname="John Denham" party="Labour" />
+<marker name="Southampton, Test" lat="50.923117425383" lng="-1.4299216237948" personid="10630" mpname="Alan Whitehead" party="Labour" />
+<marker name="Southend West" lat="51.550297258273" lng="0.66316314614168" personid="10009" mpname="David Amess" party="Conservative" />
+<marker name="Southport" lat="53.649590086843" lng="-3.0172788198415" personid="11174" mpname="John Pugh" party="Liberal Democrat" />
+<marker name="Spelthorne" lat="51.424810406069" lng="-0.46800692476611" personid="24770" mpname="Kwasi Kwarteng" party="Conservative" />
+<marker name="St Albans" lat="51.73214005858" lng="-0.33806279687574" personid="11798" mpname="Anne Main" party="Conservative" />
+<marker name="St Austell and Newquay" lat="50.372118000665" lng="-4.8728754849802" personid="24928" mpname="Stephen Gilbert" party="Liberal Democrat" />
+<marker name="St Helens North" lat="53.479440799554" lng="-2.7160971491233" personid="10625" mpname="Dave Watts" party="Labour" />
+<marker name="St Helens South and Whiston" lat="53.423481407617" lng="-2.7444886988425" personid="10651" mpname="Shaun Woodward" party="Labour" />
+<marker name="St Ives" lat="50.097082691496" lng="-5.4404095577523" personid="10222" mpname="Andrew George" party="Liberal Democrat" />
+<marker name="Stafford" lat="52.768971688477" lng="-2.1285950758169" personid="24760" mpname="Jeremy Lefroy" party="Conservative" />
+<marker name="Staffordshire Moorlands" lat="53.094670488067" lng="-1.9820194758993" personid="24725" mpname="Karen Bradley" party="Conservative" />
+<marker name="Stalybridge and Hyde" lat="53.476852122096" lng="-2.0324398293211" personid="24929" mpname="Jonathan Reynolds" party="Labour" />
+<marker name="Stevenage" lat="51.881762782774" lng="-0.19414314645092" personid="24888" mpname="Stephen McPartland" party="Conservative" />
+<marker name="Stirling" lat="56.244312098951" lng="-4.3409841627887" personid="10388" mpname="Anne McGuire" party="Labour" />
+<marker name="Stockport" lat="53.410827504019" lng="-2.1674926539136" personid="10122" mpname="Ann Coffey" party="Labour" />
+<marker name="Stockton North" lat="54.592590873288" lng="-1.3233222471074" personid="24742" mpname="Alex Cunningham" party="Labour" />
+<marker name="Stockton South" lat="54.518381357345" lng="-1.3373015347353" personid="24930" mpname="James Wharton" party="Conservative" />
+<marker name="Stoke-on-Trent Central" lat="53.016933922758" lng="-2.1641431264229" personid="24850" mpname="Tristram Hunt" party="Labour" />
+<marker name="Stoke-on-Trent North" lat="53.065934409821" lng="-2.204279241881" personid="10619" mpname="Joan Walley" party="Labour" />
+<marker name="Stoke-on-Trent South" lat="52.979505350978" lng="-2.1445828794613" personid="11843" mpname="Robert Flello" party="Labour" />
+<marker name="Stone" lat="52.889242451417" lng="-2.209677888767" personid="10095" mpname="William Cash" party="Conservative" />
+<marker name="Stourbridge" lat="52.455441302514" lng="-2.1290411840686" personid="24876" mpname="Margot James" party="Conservative" />
+<marker name="Strangford" lat="54.514706" lng="-5.751343" personid="13864" mpname="Jim Shannon" party="DUP" />
+<marker name="Stratford-on-Avon" lat="52.168328097993" lng="-1.7128782487542" personid="24822" mpname="Nadhim Zahawi" party="Conservative" />
+<marker name="Streatham" lat="51.438765557728" lng="-0.12829702802534" personid="24950" mpname="Chuka Umunna" party="Labour" />
+<marker name="Stretford and Urmston" lat="53.446350023644" lng="-2.3525000721413" personid="24896" mpname="Kate Green" party="Labour" />
+<marker name="Stroud" lat="51.744307628762" lng="-2.2989616098298" personid="24840" mpname="Neil Carmichael" party="Conservative" />
+<marker name="Suffolk Coastal" lat="52.192081414232" lng="1.4772343325542" personid="24771" mpname="Therese Coffey" party="Conservative" />
+<marker name="Sunderland Central" lat="54.903185605756" lng="-1.3876808720307" personid="24710" mpname="Julie Elliott" party="Labour" />
+<marker name="Surrey Heath" lat="51.331859040001" lng="-0.67649324005615" personid="11858" mpname="Michael Gove" party="Conservative" />
+<marker name="Sutton and Cheam" lat="51.363029428013" lng="-0.20886821257808" personid="10080" mpname="Paul Burstow" party="Liberal Democrat" />
+<marker name="Sutton Coldfield" lat="52.56173542355" lng="-1.8132417707811" personid="11115" mpname="Andrew Mitchell" party="Conservative" />
+<marker name="Swansea East" lat="51.655520412739" lng="-3.9138869629131" personid="11863" mpname="Siân James" party="Labour" />
+<marker name="Swansea West" lat="51.620550924562" lng="-3.9917808750192" personid="10159" mpname="Geraint Davies" party="Labour" />
+<marker name="Tamworth" lat="52.646457714053" lng="-1.7413223098192" personid="24747" mpname="Christopher Pincher" party="Conservative" />
+<marker name="Tatton" lat="53.297729765146" lng="-2.3917198000956" personid="11145" mpname="George Osborne" party="Conservative" />
+<marker name="Taunton Deane" lat="51.010513299643" lng="-3.1572276782594" personid="11869" mpname="Jeremy Browne" party="Liberal Democrat" />
+<marker name="Telford" lat="52.664747736177" lng="-2.4549027664046" personid="11340" mpname="David Wright" party="Labour" />
+<marker name="Tewkesbury" lat="51.948436505006" lng="-2.0602187294014" personid="10505" mpname="Laurence Robertson" party="Conservative" />
+<marker name="The Cotswolds" lat="51.806542940816" lng="-1.9173902013089" personid="10119" mpname="Geoffrey Clifton-Brown" party="Conservative" />
+<marker name="The Wrekin" lat="52.720504352221" lng="-2.4447655248101" personid="11946" mpname="Mark Pritchard" party="Conservative" />
+<marker name="Thirsk and Malton" lat="54.198243464862" lng="-0.93524927848456" personid="10389" mpname="Anne McIntosh" party="Conservative" />
+<marker name="Thornbury and Yate" lat="51.558875715756" lng="-2.4396527433662" personid="10626" mpname="Steve Webb" party="Liberal Democrat" />
+<marker name="Thurrock" lat="51.490385510085" lng="0.30635041728931" personid="24957" mpname="Jackie Doyle-Price" party="Conservative" />
+<marker name="Tiverton and Honiton" lat="50.860695614501" lng="-3.2627429582806" personid="24779" mpname="Neil Parish" party="Conservative" />
+<marker name="Tonbridge and Malling" lat="51.233792898141" lng="0.25941033768772" personid="10563" mpname="John Stanley" party="Conservative" />
+<marker name="Tooting" lat="51.436770793614" lng="-0.16550335665149" personid="11878" mpname="Sadiq Khan" party="Labour" />
+<marker name="Torbay" lat="50.450244474512" lng="-3.5205815712453" personid="10527" mpname="Adrian Sanders" party="Liberal Democrat" />
+<marker name="Torfaen" lat="51.702397649846" lng="-3.0579478115412" personid="10454" mpname="Paul Murphy" party="Labour" />
+<marker name="Torridge and West Devon" lat="50.764269224067" lng="-4.1835109183103" personid="11541" mpname="Geoffrey Cox" party="Conservative" />
+<marker name="Totnes" lat="50.370216704797" lng="-3.7245472931987" personid="24761" mpname="Sarah Wollaston" party="Conservative" />
+<marker name="Tottenham" lat="51.591131892568" lng="-0.078367342473334" personid="10678" mpname="David Lammy" party="Labour" />
+<marker name="Truro and Falmouth" lat="50.276510975954" lng="-5.0468529010718" personid="24948" mpname="Sarah Newton" party="Conservative" />
+<marker name="Tunbridge Wells" lat="51.120172382354" lng="0.38600983689766" personid="11884" mpname="Greg Clark" party="Conservative" />
+<marker name="Twickenham" lat="51.429277222011" lng="-0.34473759056702" personid="10084" mpname="Vincent Cable" party="Liberal Democrat" />
+<marker name="Tynemouth" lat="55.035175274644" lng="-1.478849260333" personid="10086" mpname="Alan Campbell" party="Labour" />
+<marker name="Upper Bann" lat="54.39975" lng="-6.350098" personid="11892" mpname="David Simpson" party="DUP" />
+<marker name="Uxbridge and South Ruislip" lat="51.544021470757" lng="-0.44192595315724" personid="10660" mpname="John Randall" party="Conservative" />
+<marker name="Vale of Clwyd" lat="53.241430915712" lng="-3.4106027875574" personid="10518" mpname="Chris Ruane" party="Labour" />
+<marker name="Vale of Glamorgan" lat="51.446000597369" lng="-3.4106541533079" personid="24740" mpname="Alun Cairns" party="Conservative" />
+<marker name="Vauxhall" lat="51.479549230464" lng="-0.12112514842494" personid="10282" mpname="Kate Hoey" party="Labour" />
+<marker name="Wakefield" lat="53.651228556947" lng="-1.5486756440921" personid="11898" mpname="Mary Creagh" party="Labour" />
+<marker name="Wallasey" lat="53.421868019079" lng="-3.0788956096702" personid="10182" mpname="Angela Eagle" party="Labour" />
+<marker name="Walsall North" lat="52.605760918338" lng="-2.0171014842449" personid="10645" mpname="David Winnick" party="Labour" />
+<marker name="Walsall South" lat="52.573907388241" lng="-1.9758944148388" personid="24852" mpname="Valerie Vaz" party="Labour" />
+<marker name="Walthamstow" lat="51.585095645026" lng="-0.027798098146593" personid="24949" mpname="Stella Creasy" party="Labour" />
+<marker name="Wansbeck" lat="55.16955886144" lng="-1.6343383191068" personid="24963" mpname="Ian Lavery" party="Labour" />
+<marker name="Wantage" lat="51.615068012001" lng="-1.4222921320148" personid="11905" mpname="Edward Vaizey" party="Conservative" />
+<marker name="Warley" lat="52.486802711914" lng="-1.9877108612999" personid="10558" mpname="John Spellar" party="Labour" />
+<marker name="Warrington North" lat="53.426889797616" lng="-2.5513438078291" personid="10319" mpname="Helen Jones" party="Labour" />
+<marker name="Warrington South" lat="53.370558252352" lng="-2.5759471626938" personid="24932" mpname="David Mowat" party="Conservative" />
+<marker name="Warwick and Leamington" lat="52.268672912143" lng="-1.582401480401" personid="24959" mpname="Chris White" party="Conservative" />
+<marker name="Washington and Sunderland West" lat="54.908073442286" lng="-1.5000930271799" personid="11592" mpname="Sharon Hodgson" party="Labour" />
+<marker name="Watford" lat="51.672628930376" lng="-0.40725902884509" personid="24954" mpname="Richard Harrington" party="Conservative" />
+<marker name="Waveney" lat="52.442648417323" lng="1.5719531112384" personid="24904" mpname="Peter Aldous" party="Conservative" />
+<marker name="Wealden" lat="51.011970294182" lng="0.16766546457865" personid="10955" mpname="Charles Hendry" party="Conservative" />
+<marker name="Weaver Vale" lat="53.276629515562" lng="-2.6527130245776" personid="24883" mpname="Graham Evans" party="Conservative" />
+<marker name="Wellingborough" lat="52.29074148418" lng="-0.66926946215759" personid="11915" mpname="Peter Bone" party="Conservative" />
+<marker name="Wells" lat="51.232440240075" lng="-2.7488054611847" personid="24942" mpname="Tessa Munt" party="Liberal Democrat" />
+<marker name="Welwyn Hatfield" lat="51.775175731595" lng="-0.20181740522778" personid="11917" mpname="Grant Shapps" party="Conservative" />
+<marker name="Wentworth and Dearne" lat="53.483361662058" lng="-1.3359048277751" personid="10268" mpname="John Healey" party="Labour" />
+<marker name="West Aberdeenshire and Kincardine" lat="57.041112190518" lng="-2.8592442767012" personid="10552" mpname="Robert Smith" party="Liberal Democrat" />
+<marker name="West Bromwich East" lat="52.535913449394" lng="-1.977530348082" personid="11309" mpname="Tom Watson" party="Labour" />
+<marker name="West Bromwich West" lat="52.529066247154" lng="-2.0364513233759" personid="10683" mpname="Adrian Bailey" party="Labour" />
+<marker name="West Dorset" lat="50.789730589862" lng="-2.5893476952127" personid="10355" mpname="Oliver Letwin" party="Conservative" />
+<marker name="West Dunbartonshire" lat="55.984914147717" lng="-4.5176756449453" personid="24918" mpname="Gemma Doyle" party="Labour" />
+<marker name="West Ham" lat="51.53051107308" lng="0.014227138379243" personid="11921" mpname="Lyn Brown" party="Labour" />
+<marker name="West Lancashire" lat="53.573289054976" lng="-2.8668373389902" personid="11667" mpname="Rosie Cooper" party="Labour" />
+<marker name="West Suffolk" lat="52.294296124405" lng="0.59782944345941" personid="24773" mpname="Matthew Hancock" party="Conservative" />
+<marker name="West Tyrone" lat="54.619797" lng="-7.410278" personid="10858" mpname="Pat Doherty" party="Sinn Fein" />
+<marker name="West Worcestershire" lat="52.160755371921" lng="-2.2939812655072" personid="24785" mpname="Harriett Baldwin" party="Conservative" />
+<marker name="Westminster North" lat="51.526655011737" lng="-0.1805842566339" personid="10075" mpname="Karen Buck" party="Labour" />
+<marker name="Westmorland and Lonsdale" lat="54.305475209961" lng="-2.798976712032" personid="11923" mpname="Tim Farron" party="Liberal Democrat" />
+<marker name="Weston-Super-Mare" lat="51.343581617537" lng="-2.8810710950149" personid="11924" mpname="John Penrose" party="Conservative" />
+<marker name="Wigan" lat="53.566773690668" lng="-2.6433432781087" personid="24831" mpname="Lisa Nandy" party="Labour" />
+<marker name="Wimbledon" lat="51.416921472704" lng="-0.21733812471283" personid="11927" mpname="Stephen Hammond" party="Conservative" />
+<marker name="Winchester" lat="51.091916738865" lng="-1.2897324094524" personid="24901" mpname="Steve Brine" party="Conservative" />
+<marker name="Windsor" lat="51.441930730411" lng="-0.65475752570399" personid="11929" mpname="Adam Afriyie" party="Conservative" />
+<marker name="Wirral South" lat="53.328646171056" lng="-3.0294230625165" personid="24897" mpname="Alison McGovern" party="Labour" />
+<marker name="Wirral West" lat="53.379701875877" lng="-3.1673350690669" personid="24882" mpname="Esther McVey" party="Conservative" />
+<marker name="Witham" lat="51.807723292388" lng="0.71423120926654" personid="24778" mpname="Priti Patel" party="Conservative" />
+<marker name="Witney" lat="51.837657238448" lng="-1.5068624934935" personid="10777" mpname="David Cameron" party="Conservative" />
+<marker name="Woking" lat="51.300687637208" lng="-0.60013056746163" personid="24884" mpname="Jonathan Lord" party="Conservative" />
+<marker name="Wokingham" lat="51.403964114456" lng="-0.9909467198969" personid="10499" mpname="John Redwood" party="Conservative" />
+<marker name="Wolverhampton North East" lat="52.611180306655" lng="-2.1061204549596" personid="24868" mpname="Emma Reynolds" party="Labour" />
+<marker name="Wolverhampton South East" lat="52.56463884088" lng="-2.0942822545018" personid="11936" mpname="Pat McFadden" party="Labour" />
+<marker name="Wolverhampton South West" lat="52.5855773085" lng="-2.1605166391819" personid="24886" mpname="Paul Uppal" party="Conservative" />
+<marker name="Worcester" lat="52.196695751063" lng="-2.2113214809636" personid="24862" mpname="Robin Walker" party="Conservative" />
+<marker name="Workington" lat="54.779086089875" lng="-3.2878810689218" personid="10834" mpname="Tony Cunningham" party="Labour" />
+<marker name="Worsley and Eccles South" lat="53.482786421574" lng="-2.4107252323399" personid="11943" mpname="Barbara Keeley" party="Labour" />
+<marker name="Worthing West" lat="50.819818160197" lng="-0.4352956185345" personid="10057" mpname="Peter Bottomley" party="Conservative" />
+<marker name="Wrexham" lat="53.074874814762" lng="-2.9513198522837" personid="11057" mpname="Ian Lucas" party="Labour" />
+<marker name="Wycombe" lat="51.607965837072" lng="-0.82484839214254" personid="24786" mpname="Steven Baker" party="Conservative" />
+<marker name="Wyre and Preston North" lat="53.856160962695" lng="-2.7789378692724" personid="11668" mpname="Ben Wallace" party="Conservative" />
+<marker name="Wyre Forest" lat="52.379572851306" lng="-2.2746462749711" personid="24824" mpname="Mark Garnier" party="Conservative" />
+<marker name="Wythenshawe and Sale East" lat="53.392513726632" lng="-2.2814841364105" personid="10232" mpname="Paul Goggins" party="Labour" />
+<marker name="Yeovil" lat="50.919255649613" lng="-2.8174015641451" personid="11036" mpname="David Laws" party="Liberal Democrat" />
+<marker name="Ynys Môn" lat="53.285729118796" lng="-4.3744019091497" personid="11148" mpname="Albert Owen" party="Labour" />
+<marker name="York Central" lat="53.956712468642" lng="-1.0922604015519" personid="10029" mpname="Hugh Bayley" party="Labour" />
+<marker name="York Outer" lat="53.958936816986" lng="-1.0585482971453" personid="24853" mpname="Julian Sturdy" party="Conservative" />
+</markers>

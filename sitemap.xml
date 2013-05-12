@@ -1,0 +1,3282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+  <loc>http://westminsterhubble.com/</loc>
+  <changefreq>always</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/about</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/blog</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/contact</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/statistics</loc>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Adam_Afriyie</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Adam_Holloway</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Adrian_Bailey</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Adrian_Sanders</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Aidan_Burley</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Alan_Beith</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Alan_Campbell</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Alan_Duncan</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Alan_Haselhurst</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Alan_Johnson</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Alan_Keen</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Alan_Meale</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Alan_Reid</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Alan_Whitehead</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Alasdair_McDonnell</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Albert_Owen</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Alec_Shelbrooke</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Alex_Cunningham</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Alison_McGovern</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Alison_Seabeck</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Alistair_Burt</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Alistair_Carmichael</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Alistair_Darling</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Alok_Sharma</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Alun_Cairns</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Alun_Michael</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Amber_Rudd</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Anas_Sarwar</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Andrea_Leadsom</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Andrew_Bingham</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Andrew_Bridgen</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Andrew_George</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Andrew_Griffiths</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Andrew_Gwynne</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Andrew_Jones</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Andrew_Lansley</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Andrew_Love</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Andrew_Miller</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Andrew_Mitchell</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Andrew_Murrison</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Andrew_Percy</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Andrew_Robathan</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Andrew_Rosindell</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Andrew_Selous</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Andrew_Smith</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Andrew_Stephenson</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Andrew_Stunell</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Andrew_Turner</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Andrew_Tyrie</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Andy_Burnham</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Andy_Slaughter</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Angela_Eagle</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Angela_Smith</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Angela_Watkinson</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Angie_Bray</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Angus_MacNeil</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Angus_Robertson</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Ann_Clwyd</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Ann_Coffey</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Ann_McKechin</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Anna_Soubry</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Anne_Begg</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Anne_Main</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Anne_McGuire</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Anne_McIntosh</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Anne_Milton</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Anne-Marie_Morris</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Annette_Brooke</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Austin_Mitchell</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Barbara_Keeley</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Barry_Gardiner</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Barry_Sheerman</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Ben_Bradshaw</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Ben_Gummer</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Ben_Wallace</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Bernard_Jenkin</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Bill_Esterson</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Bill_Wiggin</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Bob_Ainsworth</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Bob_Blackman</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Bob_Neill</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Bob_Russell</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Bob_Stewart</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Brandon_Lewis</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Brian_Binley</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Brian_H_Donohoe</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Bridget_Phillipson</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Brooks_Newmark</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Caroline_Dinenage</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Caroline_Flint</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Caroline_Lucas</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Caroline_Nokes</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Caroline_Spelman</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Catherine_McKinnell</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Cathy_Jamieson</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Charles_Hendry</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Charles_Kennedy</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Charles_Walker</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Charlie_Elphicke</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Charlotte_Leslie</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Cheryl_Gillan</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Chi_Onwurah</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Chloe_Smith</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Chris_Bryant</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Chris_Evans</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Chris_Grayling</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Chris_Heaton-Harris</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Chris_Kelly</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Chris_Ruane</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Chris_Skidmore</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Chris_White</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Chris_Williamson</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Christopher_Chope</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Christopher_Huhne</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Christopher_Leslie</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Christopher_Pincher</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Chuka_Umunna</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Claire_Perry</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Clive_Betts</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Clive_Efford</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Conor_Burns</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Conor_Murphy</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Craig_Whittaker</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Crispin_Blunt</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Dai_Havard</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Damian_Collins</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Damian_Green</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Damian_Hinds</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Dan_Byles</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Dan_Rogerson</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Daniel_Kawczynski</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Daniel_Poulter</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Danny_Alexander</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Dave_Watts</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/David_Amess</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/David_Anderson</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/David_Blunkett</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/David_Burrowes</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/David_Cairns</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/David_Cameron</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/David_Crausby</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/David_Davies</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/David_Davis</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/David_Evennett</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/David_Gauke</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/David_Hamilton</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/David_Hanson</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/David_Heath</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/David_Heyes</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/David_Jones</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/David_Lammy</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/David_Laws</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/David_Lidington</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/David_Miliband</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/David_Morris</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/David_Mowat</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/David_Mundell</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/David_Nuttall</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/David_Ruffley</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/David_Rutley</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/David_Simpson</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/David_Tredinnick</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/David_Ward</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/David_Willetts</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/David_Winnick</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/David_Wright</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Dawn_Primarolo</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Denis_MacShane</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Dennis_Skinner</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Derek_Twigg</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Desmond_Swayne</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Diana_Johnson</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Diane_Abbott</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Dominic_Grieve</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Dominic_Raab</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Don_Foster</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Douglas_Alexander</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Douglas_Carswell</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Duncan_Hames</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Edward_Balls</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Edward_Davey</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Edward_Garnier</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Edward_Leigh</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Edward_Miliband</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Edward_Timpson</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Edward_Vaizey</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Eilidh_Whiteford</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Eleanor_Laing</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Elfyn_Llwyd</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Elizabeth_Truss</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Emily_Thornberry</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Emma_Reynolds</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Eric_Illsley</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Eric_Joyce</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Eric_Ollerenshaw</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Eric_Pickles</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Esther_McVey</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Fabian_Hamilton</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Fiona_Bruce</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Fiona_Mactaggart</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Fiona_O'Donnell</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Francis_Maude</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Frank_Dobson</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Frank_Doran</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Frank_Field</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Frank_Roy</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Gareth_Johnson</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Gareth_Thomas</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Gary_Streeter</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Gavin_Barwell</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Gavin_Shuker</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Gavin_Williamson</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Gemma_Doyle</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Geoffrey_Clifton-Brown</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Geoffrey_Cox</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Geoffrey_Robinson</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/George_Eustice</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/George_Freeman</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/George_Hollingbery</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/George_Howarth</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/George_Mudie</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/George_Osborne</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/George_Young</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Geraint_Davies</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Gerald_Howarth</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Gerald_Kaufman</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Gerry_Adams</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Gerry_Sutcliffe</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Gisela_Stuart</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Glenda_Jackson</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Gloria_De_Piero</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Glyn_Davies</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Gordon_Banks</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Gordon_Birtwistle</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Gordon_Brown</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Gordon_Henderson</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Gordon_Marsden</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Graeme_Morrice</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Graham_Allen</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Graham_Brady</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Graham_Evans</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Graham_Jones</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Graham_Stringer</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Graham_Stuart</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Grahame_Morris</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Grant_Shapps</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Greg_Clark</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Greg_Hands</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Greg_Knight</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Greg_Mulholland</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Gregg_McClymont</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Gregory_Barker</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Gregory_Campbell</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Guto_Bebb</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Guy_Opperman</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Harriet_Harman</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Harriett_Baldwin</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Hazel_Blears</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Heather_Wheeler</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Heidi_Alexander</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Helen_Goodman</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Helen_Grant</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Helen_Jones</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Henry_Bellingham</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Henry_Smith</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Hilary_Benn</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Hugh_Bayley</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Hugh_Robertson</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Hugo_Swire</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Huw_Irranca-Davies</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Hywel_Francis</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Hywel_Williams</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Iain_Duncan_Smith</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Iain_Stewart</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Iain_Wright</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Ian_Austin</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Ian_Davidson</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Ian_Lavery</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Ian_Liddell-Grainger</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Ian_Lucas</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Ian_Mearns</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Ian_Murray</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Ian_Paisley_Jnr</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Ian_Swales</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Ivan_Lewis</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Jack_Dromey</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Jack_Lopresti</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Jack_Straw</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Jackie_Doyle-Price</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Jacob_Rees-Mogg</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Jake_Berry</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/James_Arbuthnot</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/James_Brokenshire</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/James_Clappison</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/James_Duddridge</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/James_Gray</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/James_Morris</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/James_Paice</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/James_Wharton</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Jamie_Reed</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Jane_Ellison</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Jason_McCartney</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Jeffrey_M_Donaldson</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Jennifer_Willott</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Jenny_Chapman</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Jeremy_Browne</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Jeremy_Corbyn</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Jeremy_Hunt</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Jeremy_Lefroy</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Jeremy_Wright</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Jesse_Norman</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Jessica_Lee</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Jessica_Morden</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Jim_Cunningham</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Jim_Dobbin</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Jim_Dowd</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Jim_Fitzpatrick</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Jim_McGovern</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Jim_Murphy</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Jim_Shannon</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Jim_Sheridan</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Jimmy_Hood</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Jo_Johnson</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Jo_Swinson</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Joan_Ruddock</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Joan_Walley</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Joe_Benton</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/John_Baron</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/John_Bercow</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/John_Cryer</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/John_Denham</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/John_Glen</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/John_Hayes</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/John_Healey</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/John_Hemming</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/John_Howell</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/John_Leech</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/John_Mann</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/John_McDonnell</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/John_Penrose</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/John_Pugh</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/John_Randall</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/John_Redwood</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/John_Robertson</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/John_Spellar</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/John_Stanley</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/John_Stevenson</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/John_Thurso</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/John_Whittingdale</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/John_Woodcock</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Jon_Cruddas</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Jon_Trickett</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Jonathan_Djanogly</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Jonathan_Edwards</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Jonathan_Evans</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Jonathan_Lord</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Jonathan_Reynolds</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Julian_Brazier</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Julian_Huppert</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Julian_Lewis</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Julian_Smith</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Julian_Sturdy</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Julie_Elliott</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Julie_Hilling</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Justin_Tomlinson</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Justine_Greening</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Karen_Bradley</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Karen_Buck</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Karen_Lumley</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Karl_McCartney</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Karl_Turner</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Kate_Green</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Kate_Hoey</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Katy_Clark</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Keith_Simpson</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Keith_Vaz</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Kelvin_Hopkins</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Kenneth_Clarke</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Kerry_McCarthy</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Kevan_Jones</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Kevin_Barron</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Kevin_Brennan</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Khalid_Mahmood</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Kris_Hopkins</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Kwasi_Kwarteng</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Lady_Hermon</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Laura_Sandys</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Laurence_Robertson</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Lee_Scott</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Liam_Byrne</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Liam_Fox</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Lilian_Greenwood</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Linda_Riordan</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Lindsay_Hoyle</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Lindsay_Roy</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Lisa_Nandy</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Liz_Kendall</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Lorely_Burt</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Lorraine_Fullbrook</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Louise_Bagshawe</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Louise_Ellman</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Luciana_Berger</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Lyn_Brown</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Lynne_Featherstone</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Madeleine_Moon</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Malcolm_Bruce</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Malcolm_Rifkind</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Malcolm_Wicks</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Marcus_Jones</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Margaret_Beckett</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Margaret_Curran</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Margaret_Hodge</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Margaret_Ritchie</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Margot_James</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Maria_Eagle</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Maria_Miller</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Mark_Durkan</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Mark_Field</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Mark_Francois</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Mark_Garnier</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Mark_Harper</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Mark_Hendrick</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Mark_Hoban</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Mark_Hunter</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Mark_Lancaster</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Mark_Lazarowicz</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Mark_Menzies</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Mark_Pawsey</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Mark_Prisk</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Mark_Pritchard</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Mark_Reckless</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Mark_Simmonds</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Mark_Spencer</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Mark_Tami</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Mark_Williams</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Marsha_Singh</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Martin_Caton</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Martin_Horwood</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Martin_McGuinness</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Martin_Vickers</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Mary_Creagh</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Mary_Glindon</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Mary_Macleod</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Matthew_Hancock</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Matthew_Offord</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Meg_Hillier</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Meg_Munn</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Mel_Stride</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Menzies_Campbell</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Michael_Connarty</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Michael_Crockart</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Michael_Dugher</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Michael_Ellis</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Michael_Fabricant</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Michael_Fallon</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Michael_Gove</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Michael_McCann</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Michael_Meacher</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Michael_Moore</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Michael_Penning</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Michael_Weir</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Michelle_Gildernew</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Mike_Freer</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Mike_Gapes</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Mike_Hancock</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Mike_Weatherley</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Mike_Wood</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Nadhim_Zahawi</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Nadine_Dorries</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Naomi_Long</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Natascha_Engel</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Neil_Carmichael</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Neil_Parish</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Nia_Griffith</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Nicholas_Boles</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Nicholas_Clegg</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Nicholas_Dakin</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Nicholas_Soames</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Nick_Brown</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Nick_de_Bois</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Nick_Gibb</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Nick_Harvey</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Nick_Herbert</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Nick_Hurd</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Nick_Raynsford</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Nick_Smith</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Nicky_Morgan</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Nicola_Blackwood</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Nigel_Adams</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Nigel_Dodds</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Nigel_Evans</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Nigel_Mills</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Norman_Baker</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Norman_Lamb</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Oliver_Colvile</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Oliver_Heald</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Oliver_Letwin</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Owen_Paterson</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Owen_Smith</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Pamela_Nash</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Pat_Doherty</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Pat_Glass</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Pat_McFadden</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Patrick_McLoughlin</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Patrick_Mercer</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Paul_Beresford</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Paul_Blomfield</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Paul_Burstow</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Paul_Farrelly</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Paul_Flynn</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Paul_Goggins</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Paul_Maynard</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Paul_Murphy</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Paul_Uppal</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Pauline_Latham</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Penny_Mordaunt</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Pete_Wishart</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Peter_Aldous</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Peter_Bone</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Peter_Bottomley</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Peter_Hain</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Peter_Lilley</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Peter_Luff</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Peter_Soulsby</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Peter_Tapsell</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Phil_Wilson</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Phil_Woolas</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Philip_Davies</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Philip_Dunne</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Philip_Hammond</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Philip_Hollobone</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Phillip_Lee</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Priti_Patel</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Rachel_Reeves</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Rebecca_Harris</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Rehman_Chishti</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Richard_Bacon</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Richard_Benyon</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Richard_Burden</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Richard_Drax</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Richard_Fuller</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Richard_Graham</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Richard_Harrington</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Richard_Ottaway</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Richard_Shepherd</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Rob_Wilson</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Robert_Buckland</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Robert_Flello</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Robert_Goodwill</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Robert_Halfon</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Robert_Smith</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Robert_Syms</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Robert_Walter</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Roberta_Blackman-Woods</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Robin_Walker</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Roger_Gale</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Roger_Godsiff</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Roger_Williams</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Ronnie_Campbell</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Rory_Stewart</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Rosie_Cooper</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Rosie_Winterton</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Rushanara_Ali</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Russell_Brown</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Sadiq_Khan</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Sajid_Javid</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Sam_Gyimah</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Sammy_Wilson</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Sandra_Osborne</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Sarah_Newton</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Sarah_Teather</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Sarah_Wollaston</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Shabana_Mahmood</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Shailesh_Vara</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Sharon_Hodgson</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Shaun_Woodward</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Sheila_Gilmore</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Sheryll_Murray</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Sian_James</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Simon_Burns</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Simon_Danczuk</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Simon_Hart</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Simon_Hughes</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Simon_Kirby</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Simon_Reevell</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Simon_Wright</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Siobhain_McDonagh</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Stella_Creasy</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Stephen_Barclay</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Stephen_Crabb</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Stephen_Dorrell</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Stephen_Gilbert</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Stephen_Hammond</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Stephen_Hepburn</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Stephen_Lloyd</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Stephen_McCabe</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Stephen_McPartland</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Stephen_Metcalfe</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Stephen_Mosley</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Stephen_O'Brien</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Stephen_Phillips</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Stephen_Pound</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Stephen_Timms</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Stephen_Twigg</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Stephen_Williams</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Steve_Brine</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Steve_Rotheram</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Steve_Webb</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Steven_Baker</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Stewart_Hosie</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Stewart_Jackson</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Stuart_Andrew</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Stuart_Bell</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Susan_Elan_Jones</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Teresa_Pearce</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Tessa_Jowell</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Tessa_Munt</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Theresa_May</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Theresa_Villiers</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Therese_Coffey</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Thomas_Docherty</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Tim_Farron</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Tim_Loughton</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Tim_Yeo</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Tobias_Ellwood</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Toby_Perkins</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Tom_Blenkinsop</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Tom_Brake</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Tom_Clarke</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Tom_Greatrex</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Tom_Harris</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Tom_Watson</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Tony_Baldry</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Tony_Cunningham</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Tony_Lloyd</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Tracey_Crouch</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Tristram_Hunt</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Valerie_Vaz</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Vernon_Coaker</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Vincent_Cable</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Virendra_Sharma</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Wayne_David</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/William_Bain</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/William_Cash</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/William_Hague</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/William_McCrea</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Yasmin_Qureshi</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Yvette_Cooper</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Yvonne_Fovargue</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://westminsterhubble.com/Zac_Goldsmith</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.60</priority>
+</url>
+</urlset>

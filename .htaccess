@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteRule ^(\/feed\/[\w\s\d'_\-%]+)$ rss.php?urlparam=$1 [L]
+RewriteRule ^([\w\s\d'_\-%]+)$ index.php?urlparam=$1 [L]

@@ -8,7 +8,7 @@
 // variables from there.
 
 // Load required lib files.
-require_once('libraries/Dotenv.php');
+require_once('dotenv/Dotenv.php');
 
 // If .env exists, load from it
 if(file_exists("./.env")) {

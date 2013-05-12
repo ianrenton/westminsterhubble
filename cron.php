@@ -68,7 +68,7 @@ while ($mp = mysql_fetch_assoc($result)) {
 
                 // Twitter and YouTube are special in that we store usernames not URLs, so expand them.
                 if ($type == "twitter") {
-                    $checkurl = "http://www.twitter.com/" . $mp[$type] . "";
+                    $checkurl = "https://api.twitter.com/1/statuses/user_timeline.rss?screen_name=" . $mp[$type] . "";
                 } elseif ($type == "youtube") {
                     $checkurl = "http://www.youtube.com/user/" . $mp[$type];
                 } else {

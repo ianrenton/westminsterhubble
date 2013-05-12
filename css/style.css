@@ -341,6 +341,7 @@ fieldset.search {
 	height: 64px;
 	padding: 0px 20px 0 20px;
 	background: url(../images/searchbg.png) no-repeat;
+	font-family: "Lucida Grande", "Lucida Sans", "Lucida Sans Unicode", Verdana, sans-serif;
 }
 
 .search button.submit {

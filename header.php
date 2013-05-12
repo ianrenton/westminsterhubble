@@ -13,7 +13,6 @@
 	<!--[if IE]> <link rel="stylesheet" href="css/ie.css" type="text/css">  <![endif]-->
 	
 	<link rel="stylesheet" type="text/css" href="css/jquery.autocomplete.css" />
-	<link href='http://fonts.googleapis.com/css?family=IM+Fell+DW+Pica' rel='stylesheet' type='text/css'>
 	<?php
     if ($person_id != '') {
 		echo ('<link rel="alternate" type="application/rss+xml" title="RSS feed for ' . $title . '" href="rss.php?personid=' . $person_id . '" />');

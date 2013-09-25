@@ -1,7 +1,7 @@
 Westminster Hubble
 ==================
 
-Describe me here
+A site for connecting constituents with their MPs. Ran at http://westminsterhubble.com from 2010-2013. Now defunct due to lack of use, and open sourced.
 
 Install on Heroku
 -----------------

@@ -7,8 +7,8 @@
     if ($title != "") echo (" - " . $title);
     ?></title>
     <meta http-equiv="X-UA-Compatible" content="IE=8" />
-	<link rel="shortcut icon" href="http://www.westminsterhubble.com/favicon.ico" type="image/ico" />
-	<link rel="icon" href="http://www.westminsterhubble.com/favicon.ico" type="image/ico" />
+	<link rel="shortcut icon" href="/favicon.ico" type="image/ico" />
+	<link rel="icon" href="/favicon.ico" type="image/ico" />
 	<link type="text/css" rel="stylesheet" media="all" href="css/style.css" />
 	<!--[if IE]> <link rel="stylesheet" href="css/ie.css" type="text/css">  <![endif]-->
 	
@@ -28,7 +28,7 @@
     <script type='text/javascript' src='javascript/jquery.autocomplete.js'></script>
 	<script type="text/javascript" src="javascript/javascript.js"></script>
 	<script src="http://platform.twitter.com/anywhere.js?id=4NtMEMChKtGMsythBGvLIQ&amp;v=1"></script>
-	
+	<script type="text/javascript" src="javascript/discontinued.js"></script>
 	
 	<script>
     $(document).ready(function(){
